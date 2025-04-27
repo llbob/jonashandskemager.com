@@ -2,6 +2,9 @@
 slug: example-work
 title: Some Example of a Work
 year: 2024
+additional:
+  - string: 11.10.24 - 02.11.24
+  - string: inter.pblc, Hamletsgade 6, 2200 Copenhagen, DK
 headerImageUrl: /assets/placeholder/image1.jpg
 carouselImages:
   - url: /assets/placeholder/image15.jpg
