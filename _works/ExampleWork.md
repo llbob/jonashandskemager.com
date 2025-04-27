@@ -8,9 +8,9 @@ additional:
 headerImageUrl: /assets/placeholder/image1.jpg
 carouselImages:
   - url: /assets/placeholder/image15.jpg
-    caption: Some caption
+    caption: Installationsview, Layers, Cantina, Århus, 2025
   - url: /assets/placeholder/image16.jpg
-    caption: Some other caption
+    caption: Installationsview, Layers, Cantina, Århus, 2025
 references:
   - referenceNumber: 1
     reference:
