@@ -1,7 +1,7 @@
 ---
 slug: example-work-three
 title: Some Third Example of a Work
-year: 2024
+year: 2022
 additional:
   - string: 11.10.24 - 02.11.24
   - string: inter.pblc, Hamletsgade 6, 2200 Copenhagen, DK
