@@ -1,3 +1,3 @@
 ---
 ---
-<p>Cras ullamcorper hendrerit eros, quis laoreet tellus fringilla sit amet. Nullam at dui ac metus rhoncus accumsan eu at sem. In rhoncus lacus ut tortor laoreet, gravida vestibulum justo ullamcorper. Nulla facilisi. Suspendisse maximus a nibh in consequat. <br><br><a href="mailto:elit.mi@pulvinar.ac">elit.mi@pulvinar.ac</a><br><br><a href="https://www.instagram.com/jonashandskemager/">@jonashandskemager</a><br><br><a href="#cv">CV</a></p>
+<p><a href="mailto:contact@jonashandskemager.com">contact@jonashandskemager.com</a><br><br><a href="https://www.instagram.com/jonashandskemager/">@jonashandskemager</a><br><br><a href="#cv">CV</a></p>
