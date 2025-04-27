@@ -1,5 +1,5 @@
 import { extract } from "$std/front_matter/yaml.ts";
-import { Work, WorkImage} from "../types/works.ts";
+import { Work, WorkImage } from "../types/works.ts";
 import { join } from "$std/path/mod.ts";
 
 // Helper function to process the markdown links in text
@@ -19,11 +19,11 @@ export async function getWorks(): Promise<Work[]> {
       );
       
       const { attrs, body } = extract(mdContent);
-      const { title, year, carouselImages, slug, references, additional} = attrs as {
+      const { title, year, carouselImages, slug, references, additional } = attrs as {
         title: string;
         year: number;
         headerImageUrl?: string;
-        carouselImages?: Array<{url: string; caption?: string; videoUrl?: string}>;
+        carouselImages?: Array<{url: string; caption?: string | string[]; videoUrl?: string}>;
         slug?: string;
         references?: Array<{referenceNumber: number; reference: string[] | string}>;
         additional?: Array<{string: string}>;
@@ -34,13 +34,29 @@ export async function getWorks(): Promise<Work[]> {
 
       // Handle both old and new image format
       const processedImages: WorkImage[] = carouselImages?.map(img => {
+        // Process image or string
         if (typeof img === 'string') {
-          return { url: (img as string).replace(/^\/?(public\/)?/, '/') };
+          return { 
+            url: (img as string).replace(/^\/?(public\/)?/, '/'),
+            caption: undefined 
+          };
         }
+        
+        // Process caption that might be rich text
+        let processedCaption: string | undefined = undefined;
+        
+        if (img.caption) {
+          if (typeof img.caption === 'string') {
+            processedCaption = processMarkdownLinks(img.caption);
+          } else if (Array.isArray(img.caption)) {
+            processedCaption = img.caption.map(item => processMarkdownLinks(item)).join("");
+          }
+        }
+        
         return {
           url: img.url.replace(/^\/?(public\/)?/, '/'),
-          caption: img.caption,
-          videoUrl: img.videoUrl // Extract the videoUrl field
+          caption: processedCaption,
+          videoUrl: img.videoUrl
         };
       }) || [];
       

@@ -98,7 +98,7 @@ export default function WorkCarousel({ work, showNavigation = true }: WorkCarous
               <img 
                 src="/assets/loader/loader.jpg" 
                 alt="Loading" 
-                className="absolute inset-0 w-full h-full object-contain opacity-30 filter blur-2xl transform-gpu"
+                className="absolute inset-0 w-full h-full object-contain opacity-50 filter blur-2xl transform-gpu"
               />
             )}
             
@@ -149,7 +149,10 @@ export default function WorkCarousel({ work, showNavigation = true }: WorkCarous
       {/* Caption below the counter - show for both images and videos */}
       {currentImage?.caption && (
         <div className="text-black text-center mt-1">
-          <p className="text-sm italic">{currentImage.caption}</p>
+          <p
+            className="text-sm sm:text-base"
+            dangerouslySetInnerHTML={{ __html: currentImage.caption }}
+          />
         </div>
       )}
     </div>
