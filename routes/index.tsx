@@ -119,7 +119,7 @@ export default function HomePage({ data }: PageProps<HomePageData>) {
         </div>
 
         {/* CV Section */}
-        <div id="cv" className="mb-12 pb-8 w-1/2">
+        <div id="cv" className="mb-12 pb-8 w-full lg:w-1/2">
           <p className="text-sm font-serif italic mb-1">CV</p>
 
           {/* Grid container for CV sections */}
