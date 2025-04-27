@@ -13,7 +13,7 @@ carouselImages:
   - url: undefined
     caption: En video, En ting, Noget, 2025. [Et link.](https://google.com/)
     videoUrl: <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/zAFzZ6O2iOA?si=wc8reVu9hPBwqWq8&amp;controls=0"
+      src="https://www.youtube.com/embed/FHYtHqjYAmo?si=CQOstoZXzcxc6XJX"
       title="YouTube video player" frameborder="0" allow="accelerometer;
       autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
       web-share" referrerpolicy="strict-origin-when-cross-origin"
