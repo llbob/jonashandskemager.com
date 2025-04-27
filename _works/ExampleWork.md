@@ -9,12 +9,17 @@ carouselImages:
   - url: /assets/placeholder/image16.jpg
     caption: Some other caption
 references:
-  - reference-number: 1
+  - referenceNumber: 1
     reference:
       - Irvine Welsh, “American Psycho is a modern classic”, The Guardian, 10.
         jan. 2015.
         [https://www.theguardian.com/](https://www.theguardian.com/)books/2015/jan/10/american-psycho-bret-easton-ellis-irvine-welsh
-  - reference-number: 2
+  - referenceNumber: 2
+    reference:
+      - Irvine Welsh, “American Psycho is a modern classic”, The Guardian, 10.
+        jan. 2015.
+        [https://www.theguardian.com/](https://www.theguardian.com/)books/2015/jan/10/american-psycho-bret-easton-ellis-irvine-welsh
+  - referenceNumber: 3
     reference:
       - Irvine Welsh, “American Psycho is a modern classic”, The Guardian, 10.
         jan. 2015.
