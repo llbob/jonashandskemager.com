@@ -59,6 +59,10 @@ content:
             type: string
             description: "Optional caption for this image"
         description: "Project images for carousel - carousel is placed at the page bottom"
+      - name: vimeoEmbed
+        label: Vimeo Embed
+        type: string
+        description: "Add the vimeo embed here in full and the video will be displayed as the last slide in the image carousel"
       - name: body
         label: Content
         type: rich-text
