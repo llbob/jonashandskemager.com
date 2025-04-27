@@ -15,6 +15,7 @@ export default function WorkCarousel({ work, showNavigation = true }: WorkCarous
   // Calculate total slides (all images in the array)
   const totalSlides = work.images.length;
 
+  // Handle image slides transitions
   const nextSlide = () => {
     imageLoaded.value = false;
     currentImageIndex.value = (currentImageIndex.value + 1) % totalSlides;
@@ -39,6 +40,24 @@ export default function WorkCarousel({ work, showNavigation = true }: WorkCarous
     carouselRef.current?.addEventListener("keydown", keydownHandler);
     return () => carouselRef.current?.removeEventListener("keydown", keydownHandler);
   }, []);
+
+  // Reset imageLoaded when currentImageIndex changes
+  useEffect(() => {
+    // Check if the current image is already cached
+    if (currentImage && !isShowingVideo) {
+      const img = new Image();
+      img.onload = () => {
+        imageLoaded.value = true;
+      };
+      img.src = currentImage.url;
+      
+      // If the image is already in the cache, onload won't fire
+      // so we need to check if it's complete
+      if (img.complete) {
+        imageLoaded.value = true;
+      }
+    }
+  }, [currentImageIndex.value]);
 
   // Get current image/slide
   const currentImage = work.images[currentImageIndex.value];
@@ -79,7 +98,7 @@ export default function WorkCarousel({ work, showNavigation = true }: WorkCarous
               <img 
                 src="/assets/loader/loader.jpg" 
                 alt="Loading" 
-                className="absolute inset-0 w-full h-full object-contain opacity-50"
+                className="absolute inset-0 w-full h-full object-contain opacity-30 filter blur-2xl transform-gpu"
               />
             )}
             
