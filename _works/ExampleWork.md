@@ -5,17 +5,19 @@ year: 2024
 additional:
   - string: 11.10.24 - 02.11.24
   - string: inter.pblc, Hamletsgade 6, 2200 Copenhagen, DK
-headerImageUrl: /assets/placeholder/image1.jpg
 carouselImages:
   - url: /assets/placeholder/image15.jpg
-    caption: Installationsview, Layers, Cantina, Århus, 2025
+    caption: Installationsview, En ting, Noget, 2025
   - url: /assets/placeholder/image16.jpg
-    caption: Noget andet, Layers, Cantina, Århus, 2025
-vimeoEmbed: <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/zAFzZ6O2iOA?si=wc8reVu9hPBwqWq8&amp;controls=0"
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
-  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    caption: Andet installationsview, En ting, Noget, 2025
+  - url: undefined
+    caption: En video, En ting, Noget, 2025
+    videoUrl: <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/zAFzZ6O2iOA?si=wc8reVu9hPBwqWq8&amp;controls=0"
+      title="YouTube video player" frameborder="0" allow="accelerometer;
+      autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+      web-share" referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen></iframe>
 references:
   - referenceNumber: 1
     reference:
