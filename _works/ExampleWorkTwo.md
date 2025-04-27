@@ -19,7 +19,7 @@ carouselImages:
       integer nunc posuere. Ut hendrerit semper vel class aptent taciti
       sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos, En
       ting, Noget, 2025.
-  - url: undefined
+  - url: /assets/placeholder/image7.jpg
     caption: En video, En ting, Noget, 2025. [Et link.](https://google.com/)
     videoUrl: <iframe width="560" height="315"
       src="https://www.youtube.com/embed/FHYtHqjYAmo?si=CQOstoZXzcxc6XJX"
