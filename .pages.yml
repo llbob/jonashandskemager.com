@@ -63,6 +63,19 @@ content:
     path: about.md
     format: yaml-frontmatter
     fields:
+      - name: body
+        label: Content
+        type: rich-text
+        description: "Use '/' to activate commands, mark text to edit it to links or style it. Also, importantly, for spacing between paragraphs use 2x 'shift+enter'."
+        options:
+          format: html
+
+  - name: cv
+    label: CV
+    type: file
+    path: CV.md
+    format: yaml-frontmatter
+    fields:
       - name: sections
         label: CV Sections
         type: object
