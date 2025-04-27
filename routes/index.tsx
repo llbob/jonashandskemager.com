@@ -1,83 +1,143 @@
 import { Handlers, PageProps } from "$fresh/server.ts";
 import { MainLayout } from "../components/MainLayout.tsx";
-import { Work } from "../types/cultproject.ts";
+import { Work } from "../types/works.ts";
 import { getWorks } from "../utils/works.ts";
-import ProjectCarousel from "../islands/ProjectCarousel.tsx";
-import { Project } from "../types/project.ts";
+import WorkCarousel from "../islands/WorkCarousel.tsx";
 import { getCV } from "../utils/cv.ts";
 import type { CV } from "../types/cv.ts";
+import { getAbout } from "../utils/about.ts";
+import type { About } from "../types/about.ts";
 
 // Combined data type for our page
 interface HomePageData {
   works: Work[];
+  about: About;
   cv: CV;
 }
 
 export const handler: Handlers<HomePageData> = {
   async GET(_req, ctx) {
-    const [works, cv] = await Promise.all([
+    const [works, about, cv] = await Promise.all([
       getWorks(),
+      getAbout(),
       getCV(),
     ]);
-    
+
     return ctx.render({
       works: works || [],
+      about: about || { content: "" },
       cv: cv || { sections: [], content: "" }
     });
   },
 };
 
 export default function HomePage({ data }: PageProps<HomePageData>) {
-  const { works, cv } = data;
+  const { works, about, cv } = data;
 
   return (
     <MainLayout>
       <div>
         {/* About Section */}
-        <div className="mb-12 border-b border-gray-200 pb-8">
+        <div className="mb-12 pb-8">
           <div className="">
-            {cv.sections.map((section, index) => (
-              <div key={index} className="mb-6">
-                <p className="text-xl font-serif mb-2">{section.title}</p>
-                <ul className="space-y-4">
-                  {section.items.map((item, itemIndex) => (
-                    <li key={itemIndex}>{item}</li>
-                  ))}
-                </ul>
-              </div>
-            ))}
-            <div dangerouslySetInnerHTML={{ __html: cv.content }} />
+            <div dangerouslySetInnerHTML={{ __html: about.content }} />
           </div>
         </div>
 
-        {/* Projects Section */}
-        <div className="grid grid-cols-1 gap-16 mb-8">
+        {/* Works Section */}
+        <div className="grid grid-cols-1 gap-16 mb-16">
           {works.length === 0 ? (
-            <p>No cultural projects found.</p>
+            <p>No cultural works found.</p>
           ) : (
-            works.map((project) => (
-              <div className="w-full" key={project.id}>
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-6 items-start">
-                  {/* First column: Title and metadata */}
-                  <div>
+            works.map((work) => (
+              <div className="w-full" key={work.id}>
+                <p className="block lg:hidden text-xl font-serif mb-1">{work.title}</p>
+                {/* Display additional work info if available */}
+                {work.additional && work.additional.length > 0 && (
+                  <div className="block lg:hidden mb-4">
+                    {work.additional.map((info, idx) => (
+                      <p key={idx} className="text-xs font-serif mb-1">
+                        {info.string}
+                      </p>
+                    ))}
+                  </div>
+                )}
+
+                {/* Work content and references */}
+                <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 items-start">
+                  {/* First column: HeaderImage and Carousel */}
+                  <div className="flex flex-col gap-4">
+                    {/* {work.headerImageUrl && (
+                      <img
+                        class="w-full h-auto min-h-[400px] object-cover mt-2"
+                        src={work.headerImageUrl}
+                        alt={work.title}
+                      />
+                    )} */}
                     <div className="mt-0">
-                      {project.images && project.images.length > 0 && (
-                        <ProjectCarousel project={project as unknown as Project} />
+                      {work.images && work.images.length > 0 && (
+                        <WorkCarousel work={work as unknown as Work} />
                       )}
                     </div>
                   </div>
 
-                  {/* Second column: Content and carousel */}
+                  {/* Second column: Title, content and references */}
                   <div>
-                    <p className="text-sm font-serif italic">Work - {project.year}</p>
-                    <p className="text-xl font-serif mb-2 pt-1">{project.title}</p>
-                    <div className="mb-4" dangerouslySetInnerHTML={{ __html: project.content }} />
+                    <p className="hidden lg:block text-xl font-serif mb-1">{work.title}</p>
+                    {work.additional && work.additional.length > 0 && (
+                      <div className="hidden lg:block mb-4">
+                        {work.additional.map((info, idx) => (
+                          <p key={idx} className="text-xs font-serif mb-1">
+                            {info.string}
+                          </p>
+                        ))}
+                      </div>
+                    )}
+                    <div className="mb-4" dangerouslySetInnerHTML={{ __html: work.content }} />
+                    {work.references && work.references.length > 0 && (
+                      <div className="mt-4 pt-4 break-words">
+                        {/* <hr className="w-[20%] border-black border-t-2 mb-4" /> */}
+                        <ol className="">
+                          {work.references.map((ref, idx) => (
+                            <li key={idx} className="w-full text-xs mb-2" id={`ref-${ref.referenceNumber}`}>
+                              <span className="text-sm font-serif mr-2">
+                                [{ref.referenceNumber}]
+                              </span>
+                              {/* Use dangerouslySetInnerHTML to render HTML content */}
+                              <span dangerouslySetInnerHTML={{ __html: ref.reference }} />
+                              {/* <span className="text-sm">{ref.reference}</span> */}
+                            </li>
+                          ))}
+                        </ol>
+                      </div>
+                    )}
                   </div>
                 </div>
-                <hr className="mt-8 border-gray-200" />
               </div>
             ))
           )}
+        </div>
+
+        {/* CV Section */}
+        <div id="cv" className="mb-12 pb-8 w-1/2">
+          <p className="text-sm font-serif italic mb-1">CV</p>
+
+          {/* Grid container for CV sections */}
+          <div className="grid grid-cols-1">
+            {cv.sections.map((section, index) => (
+              <div key={index} className="mb-8 md:mb-4">
+                <p className="text-xl font-serif mb-4">{section.title}</p>
+                <ul className="space-y-2">
+                  {section.items.map((item, itemIndex) => (
+                    <li key={itemIndex} className="text-base mb-2">{item}</li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+          {/* Additional CV content in full width */}
+          <div className="mt-4" dangerouslySetInnerHTML={{ __html: cv.content }} />
+
         </div>
       </div>
     </MainLayout>

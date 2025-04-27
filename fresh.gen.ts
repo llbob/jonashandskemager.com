@@ -4,24 +4,24 @@
 
 import * as $_404 from "./routes/_404.tsx";
 import * as $_app from "./routes/_app.tsx";
+import * as $about from "./routes/about.tsx";
 import * as $index from "./routes/index.tsx";
-import * as $om from "./routes/om.tsx";
 import * as $works_title_ from "./routes/works/[title].tsx";
 import * as $Navigation from "./islands/Navigation.tsx";
-import * as $ProjectCarousel from "./islands/ProjectCarousel.tsx";
+import * as $WorkCarousel from "./islands/WorkCarousel.tsx";
 import type { Manifest } from "$fresh/server.ts";
 
 const manifest = {
   routes: {
     "./routes/_404.tsx": $_404,
     "./routes/_app.tsx": $_app,
+    "./routes/about.tsx": $about,
     "./routes/index.tsx": $index,
-    "./routes/om.tsx": $om,
     "./routes/works/[title].tsx": $works_title_,
   },
   islands: {
     "./islands/Navigation.tsx": $Navigation,
-    "./islands/ProjectCarousel.tsx": $ProjectCarousel,
+    "./islands/WorkCarousel.tsx": $WorkCarousel,
   },
   baseUrl: import.meta.url,
 } satisfies Manifest;
