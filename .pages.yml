@@ -20,7 +20,7 @@ content:
       - name: slug
         label: Slug
         type: string
-        description: "URL-friendly version of the title"
+        description: "URL-friendly version of the title used also as ID, meaning you can link to this location using domain.com#slug"
         required: true
       - name: title
         label: Title
@@ -30,6 +30,16 @@ content:
       - name: year
         label: Year
         type: number
+      - name: additional
+        label: workInfo
+        type: object
+        list: true
+        fields:
+          - name: string
+            label: Work Info
+            type: string
+            required: true
+            description: "Could be the title of the venue, the location, etc."
       - name: headerImageUrl
         label: Project Image
         type: image
