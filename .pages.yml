@@ -51,7 +51,7 @@ content:
             required: true
           - name: caption
             label: Image Caption
-            type: string
+            type: rich-text
             description: "Optional caption for this image"
           - name: videoUrl
             label: Video Embed URL
