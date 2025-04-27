@@ -64,7 +64,6 @@ content:
             label: Reference Number
             type: number
             required: true
-            default: "{index+1}"  # This will use the index position in the array
           - name: reference
             label: Reference Content
             type: rich-text
