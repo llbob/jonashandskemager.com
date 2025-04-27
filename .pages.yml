@@ -35,12 +35,6 @@ content:
         type: image
         list: false
         description: "The project header image"
-      - name: body
-        label: Content
-        type: rich-text
-        description: "Use '/' to activate commands, mark text to edit it to links or style it. Also, importantly, for spacing between paragraphs use 2x 'shift+enter'."
-        options:
-          format: html
       - name: carouselImages
         label: Project Images
         type: object
@@ -55,6 +49,25 @@ content:
             type: string
             description: "Optional caption for this image"
         description: "Project images for carousel - carousel is placed at the page bottom"
+      - name: body
+        label: Content
+        type: rich-text
+        description: "Use '/' to activate commands, mark text to edit it to links or style it. Also, importantly, for spacing between paragraphs use 2x 'shift+enter'."
+        options:
+          format: html
+      - name: references
+        label: References
+        type: object
+        list: true
+        fields:
+          - name: reference-number
+            label: Reference Number
+            type: number
+            required: true
+          - name: reference
+            label: Reference Content
+            type: rich-text
+            list: true
 
 
   - name: about
