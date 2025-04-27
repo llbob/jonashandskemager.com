@@ -9,7 +9,11 @@ carouselImages:
   - url: /assets/placeholder/image15.jpg
     caption: Installationsview, En ting, Noget, 2025. [Et link.](https://google.com/)
   - url: /assets/placeholder/image16.jpg
-    caption: Andet installationsview, En ting, Noget, 2025
+    caption: Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla
+      lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia
+      integer nunc posuere. Ut hendrerit semper vel class aptent taciti
+      sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos, En
+      ting, Noget, 2025.
   - url: undefined
     caption: En video, En ting, Noget, 2025. [Et link.](https://google.com/)
     videoUrl: <iframe width="560" height="315"
