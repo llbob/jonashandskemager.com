@@ -10,7 +10,7 @@ carouselImages:
   - url: /assets/placeholder/image15.jpg
     caption: Installationsview, Layers, Cantina, Århus, 2025
   - url: /assets/placeholder/image16.jpg
-    caption: Installationsview, Layers, Cantina, Århus, 2025
+    caption: Noget andet, Layers, Cantina, Århus, 2025
 references:
   - referenceNumber: 1
     reference:
