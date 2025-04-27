@@ -60,7 +60,7 @@ content:
         type: object
         list: true
         fields:
-          - name: reference-number
+          - name: referenceNumber
             label: Reference Number
             type: number
             required: true
