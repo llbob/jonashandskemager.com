@@ -140,7 +140,7 @@ export default function WorkCarousel({ work, showNavigation = true }: WorkCarous
       </div>
 
       {/* Image counter below the image */}
-      <div className="hidden lg:flex justify-end mt-1">
+      <div className="hidden lg:flex justify-end mt-4 lg:mt-1">
         <p className="text-xs text-black bg-backgroundColor rounded-full px-1.5 py-0.5 sm:px-2 sm:py-1">
           ({currentImageIndex.value + 1} / {totalSlides})
         </p>
@@ -148,7 +148,7 @@ export default function WorkCarousel({ work, showNavigation = true }: WorkCarous
 
       {/* Caption below the counter - show for both images and videos */}
       {currentImage?.caption && (
-        <div className="text-black text-center mt-1">
+        <div className="text-black text-center mt-4 lg:mt-1">
           <p
             className="text-sm sm:text-base"
             dangerouslySetInnerHTML={{ __html: currentImage.caption }}

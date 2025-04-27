@@ -20,13 +20,9 @@ export default {
         fontFamily: '"Times New Roman", serif',
         backgroundColor: '#F8F8F8',
       },
-      // Add this rule to ensure links are underlined by default
-      'a': {
-        textDecoration: 'none',
-      },
-      // Make sure links in HTML content are underlined
-      '[dangerouslySetInnerHTML] a': {
-      },
+      // 'a': {
+      //   textDecoration: 'none',
+      // },
     },
     plugins: {
       'link': 'text-activeColor hover:underline',

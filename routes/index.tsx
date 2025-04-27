@@ -47,7 +47,7 @@ export default function HomePage({ data }: PageProps<HomePageData>) {
         {/* Works Section */}
         <div className="grid grid-cols-1 gap-16 mb-16">
           {works.length === 0 ? (
-            <p>No cultural works found.</p>
+            <p>No works found.</p>
           ) : (
             works.map((work) => (
               <div className="w-full" key={work.id}>
