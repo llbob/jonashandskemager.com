@@ -40,11 +40,6 @@ content:
             type: string
             required: true
             description: "Could be the title of the venue, the location, etc."
-      - name: headerImageUrl
-        label: Project Image
-        type: image
-        list: false
-        description: "The project header image"
       - name: carouselImages
         label: Project Images
         type: object
@@ -58,11 +53,10 @@ content:
             label: Image Caption
             type: string
             description: "Optional caption for this image"
-        description: "Project images for carousel - carousel is placed at the page bottom"
-      - name: vimeoEmbed
-        label: Vimeo Embed
-        type: string
-        description: "Add the vimeo embed here in full and the video will be displayed as the last slide in the image carousel"
+          - name: videoUrl
+            label: Video Embed URL
+            type: string
+            description: "If provided, this will display a video instead of the image. Use the full iframe embed code."
       - name: body
         label: Content
         type: rich-text
