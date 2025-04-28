@@ -98,7 +98,7 @@ export default function WorkCarousel({ work, showNavigation = true }: WorkCarous
               <img 
                 src="/assets/loader/loader.jpg" 
                 alt="Loading" 
-                className="absolute inset-0 w-full h-full object-contain opacity-50 filter blur-2xl transform-gpu"
+                className="absolute inset-0 w-full h-full object-contain opacity-20 filter blur-2xl transform-gpu"
               />
             )}
             
