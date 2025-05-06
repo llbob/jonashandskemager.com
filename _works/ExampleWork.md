@@ -6,15 +6,15 @@ additional:
   - string: 11.10.24 - 02.11.24
   - string: inter.pblc, Hamletsgade 6, 2200 Copenhagen, DK
 carouselImages:
-  - url: /assets/placeholder/image15.jpg
+  - url: /assets/works/Bladr_What_do_you_want/Jouissance_1_1000px.jpg
     caption: Installationsview, En ting, Noget, 2025. [Et link.](https://google.com/)
-  - url: /assets/placeholder/image16.jpg
+  - url: /assets/works/Bladr_What_do_you_want/What_do_you_want_Bladr_installation_view_2_1000px.jpg
     caption: Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla
       lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia
       integer nunc posuere. Ut hendrerit semper vel class aptent taciti
       sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos, En
       ting, Noget, 2025.
-  - url: undefined
+  - url: /assets/works/Bladr_What_do_you_want/What_do_you_want_Bladr_installation_view_3_1000px.jpg
     caption: En video, En ting, Noget, 2025. [Et link.](https://google.com/)
     videoUrl: <iframe width="560" height="315"
       src="https://www.youtube.com/embed/FHYtHqjYAmo?si=CQOstoZXzcxc6XJX"
