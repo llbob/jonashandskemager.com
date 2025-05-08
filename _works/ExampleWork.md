@@ -7,20 +7,10 @@ additional:
 carouselImages:
   - url: /assets/Cantina_Layers_2-1_1000px.jpg
     caption: Installationsview, Layers, Cantina,, 2025.
-  - url: /assets/works/Bladr_What_do_you_want/What_do_you_want_Bladr_installation_view_2_1000px.jpg
-    caption: Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla
-      lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia
-      integer nunc posuere. Ut hendrerit semper vel class aptent taciti
-      sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos, En
-      ting, Noget, 2025.
-  - url: /assets/works/Bladr_What_do_you_want/What_do_you_want_Bladr_installation_view_3_1000px.jpg
-    caption: En video, En ting, Noget, 2025. [Et link.](https://google.com/)
-    videoUrl: <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/FHYtHqjYAmo?si=CQOstoZXzcxc6XJX"
-      title="YouTube video player" frameborder="0" allow="accelerometer;
-      autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-      web-share" referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen></iframe>
+  - url: /assets/Cantina_Layers_3-1_1000px.jpg
+    caption: Installationsview, Layers, Cantina,, 2025.
+  - url: /assets/Layers_Stills_1_1000px.jpg
+    caption: Layeres, stills, video, sound, 3:27 min, 2025
 references:
   - referenceNumber: 1
     reference:
