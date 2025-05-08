@@ -6,11 +6,21 @@ additional:
   - string: Cantina, Århus, Denmark
 carouselImages:
   - url: /assets/Cantina_Layers_2-1_1000px.jpg
-    caption: Installationsview, Layers, Cantina,, 2025.
+    caption: Installationsview, Layers, Cantina, 2025.
   - url: /assets/Cantina_Layers_3-1_1000px.jpg
     caption: Installationsview, Layers, Cantina,, 2025.
   - url: /assets/Layers_Stills_1_1000px.jpg
-    caption: Layeres, stills, video, sound, 3:27 min, 2025
+    caption: Layers, stills, video, sound, 3:27 min, 2025.
+  - url: /assets/Layers_Stills_3_1000px.jpg
+    caption: Layers, stills, video, sound, 3:27 min, 2025.
+  - url: /assets/Layers_Stills_6_1000px.jpg
+    caption: Layers, stills, video, sound, 3:27 min, 2025.
+  - url: /assets/Layers_Stills_7_1000px.jpg
+    caption: Layers, stills, video, sound, 3:27 min, 2025.
+  - url: /assets/Layers_Stills_7_1000px-1.jpg
+    caption: Layers, stills, video, sound, 3:27 min, 2025.
+  - url: /assets/Layers_Stills_8_1000px.jpg
+    caption: Layers, stills, video, sound, 3:27 min, 2025.
 references:
   - referenceNumber: 1
     reference:
