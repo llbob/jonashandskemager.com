@@ -1,56 +1,28 @@
 ---
 slug: example-work-two
-title: Some Second Example of a Work
-year: 2023
+title: WHAT DO YOU WANT
+year: 2024
 additional:
-  - string: 11.10.24 - 02.11.24
-  - string: inter.pblc, Hamletsgade 6, 2200 Copenhagen, DK
+  - string: Bladr, Copenhagen, 2024.
 carouselImages:
-  - url: /assets/placeholder/image3.jpg
-    caption: Installationsview, En ting, Noget, 2025. [Et link.](https://google.com/)
-  - url: /assets/placeholder/image1.jpg
-    caption: Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla
-      lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia
-      integer nunc posuere. Ut hendrerit semper vel class aptent taciti
-      sociosqu, En ting, Noget, 2025.
-  - url: /assets/placeholder/image12.jpg
-    caption: Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla
-      lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia
-      integer nunc posuere. Ut hendrerit semper vel class aptent taciti
-      sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos, En
-      ting, Noget, 2025.
-  - url: /assets/placeholder/image7.jpg
-    caption: En video, En ting, Noget, 2025. [Et link.](https://google.com/)
-    videoUrl: <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/FHYtHqjYAmo?si=CQOstoZXzcxc6XJX"
-      title="YouTube video player" frameborder="0" allow="accelerometer;
-      autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-      web-share" referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen></iframe>
-references:
-  - referenceNumber: 1
-    reference:
-      - >-
-        Irvine Welsh, “American Psycho is a modern classic”, The Guardian, 10.
-        jan. 2015.
-
-
-        [https://www.theguardian.com/books/2015/jan/10/american-psycho-bret-easton-ellis-irvine-welsh](https://www.theguardian.com/books/2015/jan/10/american-psycho-bret-easton-ellis-irvine-welsh)
-  - referenceNumber: 2
-    reference:
-      - >-
-        Irvine Welsh, “American Psycho is a modern classic”, The Guardian, 10.
-        jan. 2015.
-
-
-        [https://www.theguardian.com/books/2015/jan/10/american-psycho-bret-easton-ellis-irvine-welsh](https://www.theguardian.com/books/2015/jan/10/american-psycho-bret-easton-ellis-irvine-welsh)
-  - referenceNumber: 3
-    reference:
-      - >-
-        Irvine Welsh, “American Psycho is a modern classic”, The Guardian, 10.
-        jan. 2015.
-
-
-        [https://www.theguardian.com/books/2015/jan/10/american-psycho-bret-easton-ellis-irvine-welsh](https://www.theguardian.com/books/2015/jan/10/american-psycho-bret-easton-ellis-irvine-welsh)
+  - url: /assets/What_do_you_want_Bladr_installation_view_2_1000px.jpg
+    caption: Installationsview, _WHAT DO YOU WANT_, Bladr, 2024.
+  - url: /assets/What_do_you_want_Bladr_installation_view_3_1000px.jpg
+    caption: Installationsview, _WHAT DO YOU WANT_, Bladr, 2024.
+  - url: /assets/Jouissance_1_1000px.jpg
+    caption: "_Jouissance_, Polished aluminium, approx: L: 27 cm,H: 18,5 cm, D: 4
+      cm, 2024."
+  - url: /assets/Jouissance_2_1000px.jpg
+    caption: "_Jouissance_, Polished aluminium, approx: L: 27 cm,H: 18,5 cm, D: 4
+      cm, 2024."
+  - url: /assets/Jouissance_3_1000px.jpg
+    caption: "_Jouissance_, Polished aluminium, approx: L: 27 cm,H: 18,5 cm, D: 4
+      cm, 2024."
+  - url: /assets/Still_pictures_1-3_1000px.jpg
+    caption: _still pictures 1-3_, 40x172 cm, archival pigment print on baryta
+      hahnemuhle paper, 2024.
+  - url: /assets/Still_pictures_4-6_1000px.jpg
+    caption: _still pictures 1-3_, 40x172 cm, archival pigment print on baryta
+      hahnemuhle paper, 2024.
 ---
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec libero sit amet elit sagittis faucibus. Nullam sem nibh, mollis quis nibh ornare, molestie hendrerit purus. Praesent sit amet pulvinar turpis, vitae eleifend quam. Ut pretium justo at enim tristique pulvinar. Sed non lectus velit. Fusce in est tempor, hendrerit est id, tempor odio. Fusce at efficitur magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin dignissim, magna at interdum hendrerit, ante enim tincidunt nulla, a malesuada turpis leo a leo. Sed sagittis mi non augue cursus pulvinar. Proin maximus iaculis condimentum. Quisque ac libero bibendum est luctus blandit id et dui. Sed dignissim viverra dui, sed tincidunt purus aliquet non. Praesent dignissim porttitor mauris, sed egestas tortor lobortis eu. Praesent non turpis egestas, vehicula nisi vitae, porttitor metus. <br><br>Cras ullamcorper hendrerit eros, quis laoreet tellus fringilla sit amet. Nullam at dui ac metus rhoncus accumsan eu at sem. In rhoncus lacus ut tortor laoreet [1], gravida vestibulum justo ullamcorper. Nulla facilisi. Suspendisse maximus a nibh in consequat. Etiam ultricies massa ac odio aliquet maximus. Proin ornare lacus justo, eget sagittis massa bibendum et. Ut tempus eu est eget semper. Phasellus convallis dapibus elit, eu tincidunt est elementum a. Suspendisse in sodales nulla. Etiam est elit, fringilla vitae erat nec, accumsan vestibulum nibh. Suspendisse maximus, est ut dignissim aliquet, augue nisl aliquam nibh, vel congue sapien eros ac ex. Duis eget fermentum neque. Nam ullamcorper ligula leo, at egestas ante tincidunt sit amet. Donec sem leo, iaculis a feugiat eget, fermentum et quam. Sed lectus nunc, ultricies et turpis eu, malesuada malesuada metus. <br><br>Phasellus elit mi, pulvinar ac vestibulum nec, euismod sed nisl [2]. Nulla auctor mollis finibus. Duis rhoncus maximus felis eu semper. Donec vulputate consectetur convallis. Praesent tincidunt eleifend velit. Pellentesque mauris felis, eleifend nec mauris at, mollis facilisis risus. Aliquam ac nibh vel arcu tempor finibus et non erat. <br><br>Sed nec risus eros. Pellentesque sed commodo odio, in ultrices ipsum. Mauris at orci posuere, maximus felis eget, vestibulum ante. Duis vel nisi non ipsum sodales cursus. Fusce quis diam eget urna pulvinar tempus ut quis arcu. Etiam euismod condimentum diam sed blandit. Integer fringilla dolor quis nisi luctus, ac pretium est cursus. <br><br>Ut tortor leo, feugiat eleifend velit nec, ornare [3] facilisis quam. Aenean ut vulputate ipsum, vitae scelerisque erat. Integer quis hendrerit lectus, quis pretium enim. Maecenas urna elit, pharetra sit amet elementum non, congue vitae risus. In at fermentum nisi. Maecenas dignissim mattis sem at pulvinar. Curabitur nisl neque, commodo sed ornare vitae, tempus at augue. Sed consectetur mi quis arcu mollis, et convallis ipsum interdum. Morbi interdum lacinia lorem eu mattis. Curabitur fermentum dapibus odio et vehicula. Aenean sed neque massa. Nulla ante augue, ultricies ut eleifend non, pulvinar in lacus. Sed fermentum ante ut felis aliquet molestie. Aliquam blandit ultricies elit a scelerisque.</p>
+<p>There are the things we can’t have. The sold-out things and the expensive things and the invaluable things and the things that just aren’t for sale. Essentially, these categories don’t include a lot of things. We have so much money, at least those of us who are able to choose what we want. Something shiny, something temptingly rounded, something soft-looking, something weighty and well-crafted. Quality. What did that term even mean prior to nonstop materialism. What did nonstop materialism even mean prior to photographs. <br></p><p></p><p>A camera can provide images of beautiful things (and all sorts of other things, but isn’t most desire directed at beauty and aren’t most photographs motivated by desire). Craving silk or whatever is gilded or some terrific weapons or just a gorgeous little vase rose comb kitten glove. This is naturally a timeless feeling, but it seems reasonable to think that there is a substantial difference between wanting things from your more or less immediate visual field and wanting things from the cornucopia-like scope of photographed imagery. That the emergence of photography might literally have made us drool more. That actual wanting might be purer when the feeling sprouts from being in the physical presence of what you want. <br></p><p><br></p><p>Imagine what desire was before the camera, imagine what it entailed to want something before the age of mechanical reproduction. How the wanting possibly manifested itself in quite various manners. Having to lay your actual eyes on something in order for the possession-sparked fire to start burning versus lying in the all-seing privacy of your screens, yearning for new heels or new partners. Things containing the dubious promise of making life sexier, a bit more joyful.&nbsp;</p><p></p><p>It might be the thing itself, but how would we know about the urgent need for that particular aluminum surface if it wasn’t for the representation of it. Let’s say that the thing is bound to disappoint. A rush of pleasure, sometimes lengthy and deep, will of course usually occur when we get what we want. The monumental delight in a flawless accessory or sudden erotic epiphanies is real. But then something breaks, corrodes, gets habitual or ultimately useless. Do we want things more if we can use them.&nbsp;</p><p></p><p>Upon landing in the center of a London fashion crowd in the early 1970s, Manolo Blahnik quickly became acquainted with an A-list of influential people, publishers and shoe wearers alike. Who makes us want what we want. When things become older and rarer, new intensities of desire begin to occur. Reselling, online auctioning, ways of presenting collector’s items in order to make them look sensational.&nbsp;</p><p></p><p>A shoe horn, images of a shoe horn, a sculpture, functionless works of art. You can have it all.<br></p>
