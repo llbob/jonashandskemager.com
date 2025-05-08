@@ -1,6 +1,6 @@
 ---
 slug: example-work
-title: I  Simply am not there
+title: I  SIMPLY AM NOT THERE
 year: 2024
 additional:
   - string: Danske Grafikere, Copenhagen, Denmark, 2024.
@@ -113,8 +113,8 @@ carouselImages:
       quotations, reinterpretations and repetition: “in my projects, repetition,
       collage, the displacement of an element from one design to another, always
       places me before another potential project which I would like to do but
-      which is also a memory of some other thing.” (Rossi_, A Scientific
-      Autobiography, p.20_)
+      which is also a memory of some other thing.” (Rossi\_, A Scientific
+      Autobiography, p.20\_)
 
 
       In Handskemager’s exhibition, the displacement of both objects and
@@ -122,15 +122,14 @@ carouselImages:
       gives occasion to consider the glossy and smooth as characteristic of
       _American Psycho_ and it’s main character. The subtle displacement and
       amplification of the book’s style clarifies a point about consumer
-      fetishism: to
+      fetishism: to attach a promise of satisfaction to a fetishised object, one
+      fixates its qualities so that it cannot move, shift, or respond; it
+      becomes an object which does not exist outside the subject’s imagination.
 
 
-      attach a promise of satisfaction to a fetishised object, one fixates its
-      qualities so that it cannot move, shift, or respond; it becomes an object
-      which does not exist outside the subject’s imagination. At the same time,
-      the use of quotation in Handskemager’s works punctuates this fixing
-      fetishism and serves rather as an example of the possibility of
-      reinterpreting objects and environments alike. This artistic strategy
+      At the same time, the use of quotation in Handskemager’s works punctuates
+      this fixing fetishism and serves rather as an example of the possibility
+      of reinterpreting objects and environments alike. This artistic strategy
       points to a shift in meaning of objects and environments depending on the
       context they are placed in. In Rossi’s own words – “(t)he emergence of
       relations among things, more than the things themselves, always gives rise
