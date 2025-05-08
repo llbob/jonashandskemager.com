@@ -4,7 +4,7 @@ title: Handle, Handles
 year: 2024
 additional:
   - string: 11.10.24 - 02.11.24
-  - string: inter.pblc, Hamletsgade 6, 2200 Copenhagen, DK
+  - string: Handle, Handles, Heerz Tooya, Veliko Tarnavo,Bulgaria, 2024.
 carouselImages:
   - url: /assets/placeholder/image2.jpg
     caption: Installationsview, En ting, Noget, 2025. [Et link.](https://google.com/)
