@@ -3,7 +3,6 @@ slug: example-work-three
 title: Handle, Handles
 year: 2024
 additional:
-  - string: 11.10.24 - 02.11.24
   - string: Handle, Handles, Heerz Tooya, Veliko Tarnavo,Bulgaria, 2024.
 carouselImages:
   - url: /assets/Handle_handles_Installations_view_1_1000px-1.jpg
