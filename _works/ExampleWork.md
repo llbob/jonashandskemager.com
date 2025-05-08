@@ -3,7 +3,7 @@ slug: example-work
 title: LAYERS
 year: 2025
 additional:
-  - string: Cantina, Århus, Denmark
+  - string: Cantina, Århus, Denmark, 2025
 carouselImages:
   - url: /assets/Cantina_Layers_2-1_1000px.jpg
     caption: Installationsview, Layers, Cantina, 2025.
