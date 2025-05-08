@@ -17,8 +17,6 @@ carouselImages:
     caption: Layers, stills, video, sound, 3:27 min, 2025.
   - url: /assets/Layers_Stills_7_1000px.jpg
     caption: Layers, stills, video, sound, 3:27 min, 2025.
-  - url: /assets/Layers_Stills_7_1000px-1.jpg
-    caption: Layers, stills, video, sound, 3:27 min, 2025.
   - url: /assets/Layers_Stills_8_1000px.jpg
     caption: Layers, stills, video, sound, 3:27 min, 2025.
 references:
