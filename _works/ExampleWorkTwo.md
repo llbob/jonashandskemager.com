@@ -7,7 +7,7 @@ additional:
 carouselImages:
   - url: /assets/What_do_you_want_Bladr_installation_view_2_1000px.jpg
     caption: Installationsview, _WHAT DO YOU WANT_, Bladr, 2024.
-  - url: /assets/What_do_you_want_Bladr_installation_view_3_1000px.jpg
+  - url: /assets/What_do_you_want_Bladr_installation_view_6_1000px.jpg
     caption: Installationsview, _WHAT DO YOU WANT_, Bladr, 2024.
   - url: /assets/Jouissance_1_1000px.jpg
     caption: "_Jouissance_, Polished aluminium, approx: L: 27 cm,H: 18,5 cm, D: 4
