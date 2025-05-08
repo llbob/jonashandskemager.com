@@ -1,5 +1,5 @@
 ---
-slug: example-work
+slug: example-work-four
 title: I  SIMPLY AM NOT THERE
 year: 2024
 additional:
