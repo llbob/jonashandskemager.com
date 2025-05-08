@@ -7,7 +7,6 @@ additional:
 carouselImages:
   - url: /assets/Cantina_Layers_2-1_1000px.jpg
     caption: Installationsview, Layers, Cantina,, 2025.
-    videoUrl: https://vimeo.com/manage/videos/1055692554
   - url: /assets/works/Bladr_What_do_you_want/What_do_you_want_Bladr_installation_view_2_1000px.jpg
     caption: Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla
       lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia
