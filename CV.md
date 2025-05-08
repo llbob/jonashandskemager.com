@@ -1,10 +1,6 @@
 ---
 sections:
-  - title: Lorem
-    items:
-      - "2023: Lorem ipsum dolor sit amet consectetur adipiscing elit. "
-      - "2021: Lorem ipsum dolor sit amet consectetur adipiscing elit. "
-      - "2019: Lorem ipsum dolor sit amet consectetur adipiscing elit. "
+  - title: Jonas Handskemager (b. 1987) is a visual artist based in Copenhagen.
   - title: Educations
     items:
       - 2013-2020 MFA, The Royal Danish Academy of Fine Arts, Copenhagen
