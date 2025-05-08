@@ -6,8 +6,8 @@ additional:
   - string: 11.10.24 - 02.11.24
   - string: Handle, Handles, Heerz Tooya, Veliko Tarnavo,Bulgaria, 2024.
 carouselImages:
-  - url: /assets/placeholder/image2.jpg
-    caption: Installationsview, En ting, Noget, 2025. [Et link.](https://google.com/)
+  - url: /assets/Handle_handles_Installations_view_1_1000px-1.jpg
+    caption: Installationsview, _Handle, Handles, Heerz Tooya_, 2024.
   - url: /assets/placeholder/image9.jpg
     caption: Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla
       lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia
