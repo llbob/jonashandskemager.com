@@ -1,6 +1,6 @@
 ---
 slug: example-work-three
-title: Handle, Handles
+title: HANDLE, HANDLES
 year: 2024
 additional:
   - string: Handle, Handles, Heerz Tooya, Veliko Tarnavo,Bulgaria, 2024.
