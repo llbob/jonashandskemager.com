@@ -8,7 +8,7 @@ carouselImages:
   - url: /assets/Cantina_Layers_2-1_1000px.jpg
     caption: Installationsview, _Layers_, Cantina, 2025.
   - url: /assets/Cantina_Layers_3-1_1000px.jpg
-    caption: Installationsview, _Layers_, Cantina,, 2025.
+    caption: Installationsview, _Layers_, Cantina, 2025.
   - url: /assets/Layers_Stills_1_1000px.jpg
     caption: _Layers_, stills, video, sound, 3:27 min, 2025.
   - url: /assets/Layers_Stills_3_1000px.jpg
