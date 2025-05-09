@@ -1,5 +1,5 @@
 ---
-slug: example-work-three
+slug: handle-handles
 title: HANDLE, HANDLES
 year: 2024
 additional:
