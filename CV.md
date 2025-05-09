@@ -7,10 +7,5 @@ sections:
       - 2017 MauMaus, Independent Study Program, Lisbon.
       - 2011-12 Fatamorgana, The Danish school of Art Photography, Copenhagen.
   - title: Selected exhibitions
-    items:
-      - |-
-        2025 S2E2, Portland.site, Zürich, Switzerland
-
-        Layers, Cantina, Århus, (solo)
 ---
 <p><em>S2E2, </em><a href="http://Portland.site">Portland.site</a>, Zürich, Switzerland</p><p><em>Layers, </em>Cantina, Århus, (solo)</p><p><em>What do you want, </em>Bladr, Copenhagen, (solo)</p><p><em>Handle, handles, </em>Heerz Tooya, Veliko Tarnovo, Bulgaria (solo)</p><p><em>I Simply Am Not There, </em>Danske Grafikers Hus, Copenhagen (solo)</p><p><em>A study of plants and music,</em> public commission, w. Ebbe Stub Wittrup, Radiohuset, Copenhagen</p><p><em>GÅ</em>, Kunsthal Sophienholm, Kgs. Lyngby</p><p><em>Afgang2020</em>, Kunsthal Charlottenborg, Copenhagen</p><p><em>det 2. Bud RW + 19</em>, Richard Winthers Hus, Vindeby, Lolland</p><p><em>Saint Antonios Fristelser</em>, Galleri Tom Christoffersen, Copenhagen</p><p><em>Courage Afternoon</em>, m. Mads Juel, Sydhavn Station, Copenhagen</p><p><em>Overgang</em> – Hyper, Museum Ovartaci, Risskov</p><p><em>RISO</em>, Udstillingssted Bladr, Copenhagen</p><p><em>Buds are Breaking</em>, Bådehavnsgade 42, Sydhavnen</p><p><em>Rundgang, BFA show</em>, The Royal Danish Academy of Fine Arts, Copenhagen</p><p><em>Freeways</em>, KBH Kunsthal, Krabbesholm, Skive (solo)</p><p><em>Forårsudstillingen 2015,</em> Kunsthal Charlottenborg, Copenhagen</p><p><em>100 Editions - a group exhibition</em>, Galleri Naboløs, Copenhagen</p><p><em>Ca. 256 - Førsteårsudstilling,</em> Galleri Q, Copenhagen</p><p><em>KE12, Kunsternes Efterårsudstilling,</em> Den Frie, Copenhagen</p>
