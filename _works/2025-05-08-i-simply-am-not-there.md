@@ -5,6 +5,15 @@ year: 2024
 additional:
   - string: Danske Grafikere, Copenhagen, Denmark, 2024.
 carouselImages:
+  - url: undefined
+    caption: I SIMPLY AM NOT THERE (Trailer), 2024
+    videoUrl: <div style="padding:56.25% 0 0 0;position:relative;"><iframe
+      src="https://player.vimeo.com/video/1082891133?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+      frameborder="0" allow="autoplay; fullscreen; picture-in-picture;
+      clipboard-write; encrypted-media"
+      style="position:absolute;top:0;left:0;width:100%;height:100%;" title="I
+      SIMPLY AM NOT THERE (Trailer), 2024"></iframe></div><script
+      src="https://player.vimeo.com/api/player.js"></script>
   - url: /assets/I_simply_am_not_there_installation_view_3_1000px.jpg
     caption: Installationsview, _I simply am not there_, Danske Grafikere, 2024.
   - url: /assets/I_simply_am_not_there_installation_view_4_1000px.jpg
@@ -16,7 +25,7 @@ carouselImages:
   - url: /assets/works/DG_I_simply_am_Not_there/Apartment_1_1000px.jpg
     caption: "_Apartment #1,_ Silver geletin print, 60x80 cm, 2024."
   - url: /assets/I_simply_am_not_there_installation_view_1_1000px-1.jpg
-    caption: Installationsview, Danske Grafikere, 2024.
+    caption: Installationsview, _I simply am not there,_ Danske Grafikere, 2024.
   - url: /assets/object_1.jpg
     caption: "_Object #1,_ 40x60 cm, Baryta print, 2023."
 ---
