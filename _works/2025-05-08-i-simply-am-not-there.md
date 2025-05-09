@@ -9,7 +9,8 @@ carouselImages:
     caption: Installationsview, Danske Grafikere, 2024.
   - url: /assets/I_simply_am_not_there_installation_view_4_1000px.jpg
     caption: Installationsview, Danske Grafikere, 2024.
-  - url: /assets/works/DG_I_simply_am_Not_there/I_simply_am_not_there_installation_view_2_1000px.jpg
+  - url: /assets/works/DG_I_simply_am_Not_there/Apartment_#3_1000px.jpg
+    caption: "_Apartment #3,_ Silver geletin print, 60x80 cm, 2024."
   - url: /assets/Apartment_#2_1000px-1.jpg
     caption: "_Apartment #2,_ Silver geletin print, 60x80 cm, 2024."
   - url: /assets/Apartment_#1_1000px.jpg
