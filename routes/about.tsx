@@ -19,14 +19,17 @@ export default function CV({ data }: PageProps<CV>) {
       <div class="">
         <div class="max-w-4xl mx-auto my-4 md:my-8 md:px-8">
           {data.sections.map((section, index) => (
-            <div key={index} class="mb-6">
-              <p class="text-xl font-serif mb-2">{section.title}</p>
-              <ul class="space-y-4">
-                {section.items.map((item, itemIndex) => (
-                  <li key={itemIndex}>{item}</li>
-                ))}
-              </ul>
-            </div>
+            // Only render section if it has items
+            section.items.length > 0 ? (
+              <div key={index} class="mb-6">
+                <p class="text-xl font-serif mb-2">{section.title}</p>
+                <ul class="space-y-4">
+                  {section.items.map((item, itemIndex) => (
+                    <li key={itemIndex}>{item}</li>
+                  ))}
+                </ul>
+              </div>
+            ) : null
           ))}
           <div dangerouslySetInnerHTML={{ __html: data.content }} />
         </div>
