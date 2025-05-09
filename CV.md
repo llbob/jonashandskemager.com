@@ -1,8 +1,6 @@
 ---
 sections:
   - title: Jonas Handskemager (b. 1987) is a visual artist based in Copenhagen.
-    items:
-      - " ."
   - title: Educations
     items:
       - 2013-2020 MFA, The Royal Danish Academy of Fine Arts, Copenhagen.
