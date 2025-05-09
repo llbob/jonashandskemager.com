@@ -24,7 +24,7 @@ carouselImages:
     caption: "_Apartment #2,_ Silver geletin print, 60x80 cm, 2024."
   - url: /assets/works/DG_I_simply_am_Not_there/Apartment_1_1000px.jpg
     caption: "_Apartment #1,_ Silver geletin print, 60x80 cm, 2024."
-  - url: /assets/I_simply_am_not_there_installation_view_1_1000px-1.jpg
+  - url: /assets/I_simply_am_not_there_installation_view_1_1000px-2.jpg
     caption: Installationsview, _I simply am not there,_ Danske Grafikere, 2024.
   - url: /assets/object_1.jpg
     caption: "_Object #1,_ 40x60 cm, Baryta print, 2023."
