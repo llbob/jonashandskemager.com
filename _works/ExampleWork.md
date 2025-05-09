@@ -1,5 +1,5 @@
 ---
-slug: example-work
+slug: example-work-one
 title: LAYERS
 year: 2025
 additional:
