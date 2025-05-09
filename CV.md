@@ -10,6 +10,7 @@ sections:
     items:
       - |-
         2025 S2E2, Portland.site, Zürich, Switzerland
+
         Layers, Cantina, Århus, (solo)
 ---
 <p></p>
