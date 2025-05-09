@@ -1,5 +1,5 @@
 ---
-slug: example-work-two
+slug: what-do-you-want
 title: WHAT DO YOU WANT
 year: 2024
 additional:
