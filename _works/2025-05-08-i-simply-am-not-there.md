@@ -8,7 +8,7 @@ carouselImages:
   - url: undefined
     caption: _I simply am not there_ (Trailer), 2024.
     videoUrl: <div style="padding:56.25% 0 0 0;position:relative;"><iframe
-      src="https://player.vimeo.com/video/1082891133?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+      src="https://player.vimeo.com/video/1082891133??autoplay=1&loop=1&autopause=0&muted=1badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
       frameborder="0" allow="autoplay; fullscreen; picture-in-picture;
       clipboard-write; encrypted-media"
       style="position:absolute;top:0;left:0;width:100%;height:100%;" title="I
