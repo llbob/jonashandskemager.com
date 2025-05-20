@@ -11,9 +11,10 @@ sections:
   - title: Selected exhibitions
     items:
       - year: "2025"
-        content: _S2E2,_ Portland.site, Zürich, Switzerland
-      - year: "2025"
-        content: _Layers,_ Cantina, Århus, (solo)
+        content: |-
+          _S2E2,_ Portland.site, Zürich, Switzerland
+
+          _Layers,_ Cantina, Århus, (solo)
       - year: "2024"
         content: |-
           What do you want, Bladr, Copenhagen, (solo)  
@@ -27,16 +28,18 @@ sections:
       - year: "2020"
         content: _Afgang2020_, Kunsthal Charlottenborg, Copenhagen
       - year: "2019"
-        content: _det 2. Bud RW + 19_, Richard Winthers Hus, Vindeby, Lolland
-      - year: "2019"
-        content: _Saint Antonios Fristelser_, Galleri Tom Christoffersen, Copenhagen
+        content: |-
+          _det 2. Bud RW + 19_, Richard Winthers Hus, Vindeby, Lolland
+
+          _Saint Antonios Fristelser_, Galleri Tom Christoffersen, Copenhagen
       - year: "2018"
-        content: _Courage Afternoon_, Sydhavn Station, Copenhagen (solo w. Mads Juel)
-      - year: "2018"
-        content: _Overgang_ – Hyper, Museum Ovartaci, Risskov
-      - year: "2018"
-        content: _RISO_, Udstillingssted Bladr, Copenhagen
-      - year: "2018"
-        content: _Buds are Breaking_, Bådehavnsgade 42, Copenhagen
+        content: |-
+          _Courage Afternoon_, Sydhavn Station, Copenhagen (solo w. Mads Juel)
+
+          _Overgang_ – Hyper, Museum Ovartaci, Risskov
+
+          _RISO_, Udstillingssted Bladr, Copenhagen
+
+          _Buds are Breaking_, Bådehavnsgade 42, Copenhagen
 ---
 <p>Jonas Handskemager (b. 1987) is a visual artist based in Copenhagen.</p>
