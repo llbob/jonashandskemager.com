@@ -11,27 +11,32 @@ sections:
   - title: Selected exhibitions
     items:
       - year: "2025"
-        content: "<em>S2E2, </em>Portland.site, Zürich, Switzerland"
+        content: _S2E2,_ Portland.site, Zürich, Switzerland
       - year: "2025"
-        content: "<em>Layers, </em>Cantina, Århus, (solo)"
+        content: _Layers,_ Cantina, Århus, (solo)
       - year: "2024"
-        content: "What do you want, </em>Bladr, Copenhagen, (solo)<br><em><em>Handle, handles, </em>Heerz Tooya, Veliko Tarnovo, Bulgaria (solo)<br>I Simply Am Not There, </em>Danske Grafikers Hus, Copenhagen (solo)"
+        content: |-
+          What do you want, Bladr, Copenhagen, (solo)  
+          __Handle, handles,_ Heerz Tooya, Veliko Tarnovo, Bulgaria (solo)  
+          I Simply Am Not There,_ Danske Grafikers Hus, Copenhagen (solo)
       - year: "2023"
-        content: "<em>A study of plants and music,</em> w. Ebbe Stub Wittrup, Radiohuset, Copenhagen (public commission)"
+        content: _A study of plants and music,_ w. Ebbe Stub Wittrup, Radiohuset,
+          Copenhagen (public commission)
       - year: "2021"
-        content: "<em>GÅ</em>, Kunsthal Sophienholm, Kgs. Lyngby"
+        content: _GÅ_, Kunsthal Sophienholm, Kgs. Lyngby
       - year: "2020"
-        content: "<em>Afgang2020</em>, Kunsthal Charlottenborg, Copenhagen"
+        content: _Afgang2020_, Kunsthal Charlottenborg, Copenhagen
       - year: "2019"
-        content: "<em>det 2. Bud RW + 19</em>, Richard Winthers Hus, Vindeby, Lolland"
+        content: _det 2. Bud RW + 19_, Richard Winthers Hus, Vindeby, Lolland
       - year: "2019"
-        content: "<em>Saint Antonios Fristelser</em>, Galleri Tom Christoffersen, Copenhagen"
+        content: _Saint Antonios Fristelser_, Galleri Tom Christoffersen, Copenhagen
       - year: "2018"
-        content: "<em>Courage Afternoon</em>, Sydhavn Station, Copenhagen (solo w. Mads Juel)"
+        content: _Courage Afternoon_, Sydhavn Station, Copenhagen (solo w. Mads Juel)
       - year: "2018"
-        content: "<em>Overgang</em> – Hyper, Museum Ovartaci, Risskov"
+        content: _Overgang_ – Hyper, Museum Ovartaci, Risskov
       - year: "2018"
-        content: "<em>RISO</em>, Udstillingssted Bladr, Copenhagen"
+        content: _RISO_, Udstillingssted Bladr, Copenhagen
       - year: "2018"
-        content: "<em>Buds are Breaking</em>, Bådehavnsgade 42, Copenhagen"
+        content: _Buds are Breaking_, Bådehavnsgade 42, Copenhagen
 ---
+<p>Jonas Handskemager (b. 1987) is a visual artist based in Copenhagen.</p>
