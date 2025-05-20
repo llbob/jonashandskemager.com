@@ -68,7 +68,7 @@ export default function WorkCarousel({ work, showNavigation = true }: WorkCarous
         ) : (
           <div className="relative overflow-hidden">
             <div 
-              className="flex transition-transform duration-300 ease-in-out w-[100%]"
+              className="flex transition-transform duration-500"
               style={{ transform: `translateX(-${currentImageIndex.value * 100}%)` }}
             >
               {work.images.map((image, index) => (
