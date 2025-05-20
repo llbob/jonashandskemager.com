@@ -2,6 +2,7 @@
 slug: what-do-you-want
 title: WHAT DO YOU WANT
 year: 2024
+date: 2024-09-20
 additional:
   - string: Bladr, Copenhagen, 2024.
 carouselImages:
