@@ -50,7 +50,7 @@ export default function HomePage({ data }: PageProps<HomePageData>) {
             <p>No works found.</p>
           ) : (
             works.map((work) => (
-              <div className="w-full" key={work.id}>
+              <div className="w-full mb-4" key={work.id}>
                 <p className="block lg:hidden text-xl font-serif mb-1">{work.title}</p>
                 {/* Display additional work info if available */}
                 {work.additional && work.additional.length > 0 && (
@@ -121,11 +121,17 @@ export default function HomePage({ data }: PageProps<HomePageData>) {
         <div id="cv" className="mb-12 pb-8 w-full lg:w-3/4 h-screen">
           <p className="text-xl font-serif mb-6 pt-4">CV</p>
 
+          {/* Additional CV content in full width */}
+          {cv && cv.content && cv.content.length > 0 && (
+            <div className="mb-4" dangerouslySetInnerHTML={{ __html: cv.content }} />
+          )}
+          
+
           {/* Grid container for CV sections */}
           <div className="space-y-8">
             {cv && cv.sections && cv.sections.map((section, index) => (
               <div key={index} className="mb-10">
-                <p className="text-lg font-serif mb-2">{section.title}</p>
+                <p className="text-base font-serif mb-2">{section.title}</p>
                 {section.items && section.items.length > 0 ? (
                   <div className="space-y-4">
                     {section.items.map((item, itemIndex) => (
@@ -139,8 +145,6 @@ export default function HomePage({ data }: PageProps<HomePageData>) {
               </div>
             ))}
           </div>
-          {/* Additional CV content in full width */}
-          <div className="mt-8" dangerouslySetInnerHTML={{ __html: cv.content }} />
         </div>
       </div>
     </MainLayout>
