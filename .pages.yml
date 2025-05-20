@@ -108,8 +108,16 @@ content:
             required: true
           - name: items
             label: Section Items
-            type: text
+            type: object
             list: true
+            fields:
+              - name: year
+                label: Year
+                type: string
+                required: true
+              - name: content
+                label: Item Content
+                type: rich-text
       - name: body
         label: Content
         type: rich-text
