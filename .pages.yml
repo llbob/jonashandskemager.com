@@ -14,7 +14,8 @@ content:
       primary: title
       sort: [ year, title ]
       default:
-        sort: custom
+        sort: year
+        order: asc
     fields:
       - name: slug
         label: Slug
