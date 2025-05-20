@@ -2,6 +2,7 @@
 slug: i-simply-am-not-there
 title: I  SIMPLY AM NOT THERE
 year: 2024
+date: 2024-06-20
 additional:
   - string: Danske Grafikere, Copenhagen, Denmark, 2024.
 carouselImages:
