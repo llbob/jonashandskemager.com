@@ -76,7 +76,7 @@ export default function WorkCarousel({ work, showNavigation = true }: WorkCarous
                   <img
                     src={image.url}
                     alt={image.caption || `${work.title} image ${index + 1}`}
-                    className="max-h-[280px] sm:max-h-[400px] md:max-h-[500px] lg:max-h-[540px] w-full object-contain"
+                    className="max-h-[280px] sm:max-h-[400px] md:max-h-[500px] lg:max-h-[600px] w-full object-contain"
                   />
                 </div>
               ))}
@@ -110,7 +110,7 @@ export default function WorkCarousel({ work, showNavigation = true }: WorkCarous
       </div>
 
 
-      <div className="flex items-center mt-4 lg:mt-1">
+      <div className="flex items-center mt-4 lg:mt-4">
         {/* Empty div on left to balance layout and keep caption centered */}
         <div className="flex-shrink-0 mr-4 w-[42px] sm:w-[52px]"></div>
         
