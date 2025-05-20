@@ -76,7 +76,7 @@ export default function WorkCarousel({ work, showNavigation = true }: WorkCarous
                   <img
                     src={image.url}
                     alt={image.caption || `${work.title} image ${index + 1}`}
-                    className="max-h-[280px] sm:max-h-[400px] md:max-h-[600px] lg:max-h-[650px] w-full object-contain"
+                    className="max-h-[280px] sm:max-h-[400px] md:max-h-[500px] lg:max-h-[540px] w-full object-contain"
                   />
                 </div>
               ))}

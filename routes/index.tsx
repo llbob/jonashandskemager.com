@@ -87,7 +87,7 @@ export default function HomePage({ data }: PageProps<HomePageData>) {
                     {work.additional && work.additional.length > 0 && (
                       <div className="hidden lg:block mb-4">
                         {work.additional.map((info, idx) => (
-                          <p key={idx} className="text-xs font-serif mb-1">
+                          <p key={idx} className="text-sm font-serif mb-1">
                             {info.string}
                           </p>
                         ))}
@@ -95,8 +95,7 @@ export default function HomePage({ data }: PageProps<HomePageData>) {
                     )}
                     <div className="mb-4" dangerouslySetInnerHTML={{ __html: work.content }} />
                     {work.references && work.references.length > 0 && (
-                      <div className="mt-4 pt-4 break-words">
-                        {/* <hr className="w-[20%] border-black border-t-2 mb-4" /> */}
+                      <div className="mt-0 pt-0 break-words">
                         <ol className="">
                           {work.references.map((ref, idx) => (
                             <li key={idx} className="w-full text-xs mb-2" id={`ref-${ref.referenceNumber}`}>
@@ -119,27 +118,29 @@ export default function HomePage({ data }: PageProps<HomePageData>) {
         </div>
 
         {/* CV Section */}
-        <div id="cv" className="mb-12 pb-8 w-full lg:w-1/2">
-          <p className="text-base font-serif mb-1">CV</p>
+        <div id="cv" className="mb-12 pb-8 w-full lg:w-3/4">
+          <p className="text-xl font-serif mb-6">CV</p>
 
           {/* Grid container for CV sections */}
-          <div className="grid grid-cols-1">
+          <div className="space-y-8">
             {cv && cv.sections && cv.sections.map((section, index) => (
-              <div key={index} className="mb-8 md:mb-4">
-                <p className="text-xl font-serif mb-4">{section.title}</p>
+              <div key={index} className="mb-10">
+                <p className="text-lg font-serif mb-4">{section.title}</p>
                 {section.items && section.items.length > 0 ? (
-                  <ul className="space-y-2">
+                  <div className="space-y-4">
                     {section.items.map((item, itemIndex) => (
-                      <li key={itemIndex} className="text-base mb-2">{item}</li>
+                      <div key={itemIndex} className="grid grid-cols-[80px_1fr] gap-4 items-baseline">
+                        <div className="text-base font-serif">{item.year}</div>
+                        <div className="text-base" dangerouslySetInnerHTML={{ __html: item.content }} />
+                      </div>
                     ))}
-                  </ul>
+                  </div>
                 ) : null}
               </div>
             ))}
           </div>
           {/* Additional CV content in full width */}
-          <div className="mt-4" dangerouslySetInnerHTML={{ __html: cv.content }} />
-
+          <div className="mt-8" dangerouslySetInnerHTML={{ __html: cv.content }} />
         </div>
       </div>
     </MainLayout>

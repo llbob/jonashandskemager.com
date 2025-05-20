@@ -6,7 +6,7 @@ export async function getCV(): Promise<CV | null> {
     const mdContent = await Deno.readTextFile("CV.md");
     const { attrs, body } = extract(mdContent);
     const { sections } = attrs as {
-      sections: { title: string; items: string[] }[];
+      sections: { title: string; items: { year: string; content: string }[] }[];
     };
     
     return {
@@ -14,7 +14,7 @@ export async function getCV(): Promise<CV | null> {
       content: body
     };
   } catch (error) {
-    console.error("Error reading cv.md:", error);
+    console.error("Error reading CV.md:", error);
     return null;
   }
-} 
+}
