@@ -2,6 +2,7 @@
 slug: example-work-five
 title: STUDY OF PLANTS AND MUSIC
 year: 2023
+date: 2023-06-20
 additional:
   - string: Study of plants and music, public commission w. Ebbe Stub Wittrup, The
       Radiohouse, Copenhagen, 2023.
