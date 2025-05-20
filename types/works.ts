@@ -17,7 +17,7 @@ export interface Work {
   id: string;
   slug: string;
   title: string;
-  year: number;
+  date: string;
   headerImageUrl: string;
   images: WorkImage[];
   content: string;

@@ -6,7 +6,18 @@ import { join } from "$std/path/mod.ts";
 function processMarkdownLinks(text: string): string {
   // Regular expression to match markdown links [text](url)
   const linkRegex = /\[([^\]]+)\]\(([^)]+)\)/g;
-  return text.replace(linkRegex, '<a href="$2" target="_blank" rel="noopener noreferrer" class="underline">$1</a>');
+  
+  // process links first
+  let processedText = text.replace(linkRegex, '<a href="$2" target="_blank" rel="noopener noreferrer" class="underline">$1</a>');
+  
+  // process italic text so both _text_ and *text*
+  const italicRegex1 = /_(.*?)_/g;
+  const italicRegex2 = /\*(.*?)\*/g;
+  
+  processedText = processedText.replace(italicRegex1, '<em>$1</em>');
+  processedText = processedText.replace(italicRegex2, '<em>$1</em>');
+  
+  return processedText;
 }
 
 export async function getWorks(): Promise<Work[]> {
@@ -19,9 +30,9 @@ export async function getWorks(): Promise<Work[]> {
       );
       
       const { attrs, body } = extract(mdContent);
-      const { title, year, carouselImages, slug, references, additional } = attrs as {
+      const { title, date, carouselImages, slug, references, additional } = attrs as {
         title: string;
-        year: number;
+        date: string; // Changed from year: number
         headerImageUrl?: string;
         carouselImages?: Array<{url: string; caption?: string | string[]; videoUrl?: string}>;
         slug?: string;
@@ -80,7 +91,7 @@ export async function getWorks(): Promise<Work[]> {
         id: safeSlug,
         slug: safeSlug,
         title,
-        year,
+        date, // Changed from year
         headerImageUrl: typeof attrs.headerImageUrl === 'string' 
           ? attrs.headerImageUrl.replace(/^\/?(public\/)?/, '/') 
           : '',
@@ -92,7 +103,12 @@ export async function getWorks(): Promise<Work[]> {
     }
   }
 
-  return works.sort((a, b) => b.year - a.year);
+  // Sort works by date (newest first)
+  return works.sort((a, b) => {
+    const dateA = new Date(a.date);
+    const dateB = new Date(b.date);
+    return dateB.getTime() - dateA.getTime();
+  });
 }
 
 export async function getWorkById(id: string): Promise<Work | null> {
