@@ -2,6 +2,7 @@
 slug: layers
 title: LAYERS
 year: 2025
+date: 2025-05-23
 additional:
   - string: Cantina, Århus, Denmark, 2025.
 carouselImages:
