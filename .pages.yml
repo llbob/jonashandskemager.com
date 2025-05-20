@@ -15,7 +15,6 @@ content:
       sort: [ year, title ]
       default:
         sort: custom
-        order: desc
     fields:
       - name: slug
         label: Slug
