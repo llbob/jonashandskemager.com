@@ -124,3 +124,5 @@ content:
               - name: content
                 label: Item Content
                 type: rich-text
+                options:
+                  format: html
