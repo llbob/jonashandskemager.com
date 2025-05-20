@@ -10,12 +10,12 @@ content:
     type: collection
     path: _works
     view:
-      fields: [ title, year]
+      fields: [ title, date]
       primary: title
-      sort: [ year, title ]
+      sort: [ date ]
       default:
-        sort: year
-        order: asc
+        sort: date
+        order: desc
     fields:
       - name: slug
         label: Slug
@@ -30,6 +30,9 @@ content:
       - name: year
         label: Year
         type: number
+      - name: date
+        label: Date
+        type: date
       - name: additional
         label: workInfo
         type: object
