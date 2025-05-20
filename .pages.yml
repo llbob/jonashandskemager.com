@@ -97,6 +97,12 @@ content:
     path: CV.md
     format: yaml-frontmatter
     fields:
+      - name: body
+        label: Content
+        type: rich-text
+        description: "Use '/' to activate commands, mark text to edit it to links or style it. Also, importantly, for spacing between paragraphs use 2x 'shift+enter'."
+        options:
+          format: html
       - name: sections
         label: CV Sections
         type: object
@@ -118,9 +124,3 @@ content:
               - name: content
                 label: Item Content
                 type: rich-text
-      - name: body
-        label: Content
-        type: rich-text
-        description: "Use '/' to activate commands, mark text to edit it to links or style it. Also, importantly, for spacing between paragraphs use 2x 'shift+enter'."
-        options:
-          format: html
