@@ -3,7 +3,7 @@ slug: what-do-you-want
 title: WHAT DO YOU WANT
 date: 2024-09-20
 additional:
-  - string: Bladr, Copenhagen, 2024.
+  - string: Bladr, Copenhagen, Denmark, 2024.
 carouselImages:
   - url: /assets/What_do_you_want_Bladr_installation_view_2_1000px.jpg
     caption: Installationsview, _WHAT DO YOU WANT_, Bladr, 2024.
