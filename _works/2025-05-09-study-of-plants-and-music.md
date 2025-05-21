@@ -3,8 +3,7 @@ slug: example-work-five
 title: STUDY OF PLANTS AND MUSIC
 date: 2023-06-20
 additional:
-  - string: Study of plants and music, public commission w. Ebbe Stub Wittrup, The
-      Radiohouse, Copenhagen, 2023.
+  - string: Public commission w. Ebbe Stub Wittrup, The Radiohouse, Copenhagen, 2023.
 carouselImages:
   - url: undefined
     caption: _The Study of plants and music,_ documentation film, 2023.
