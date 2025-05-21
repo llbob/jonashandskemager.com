@@ -3,7 +3,7 @@ slug: handle-handles
 title: HANDLE, HANDLES
 date: 2024-06-21
 additional:
-  - string: Handle, Handles, Heerz Tooya, Veliko Tarnavo,Bulgaria, 2024.
+  - string: Heerz Tooya, Veliko Tarnavo, Bulgaria, 2024.
 carouselImages:
   - url: /assets/Handle_handles_Installations_view_1_1000px-1.jpg
     caption: Installationsview, _Handle, Handles,_ Heerz Tooya, 2024.
