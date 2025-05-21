@@ -14,9 +14,10 @@ sections:
         content: <em>S2E2, </em>Portland.site, Zürich, Switzerland<br><em>Layers,
           </em>Cantina, Århus, (solo)
       - year: "2024"
-        content: <p>WHAT DO YOU WANT, Bladr, Copenhagen, (solo)<br><em>Handle, handles,
-          </em>Heerz Tooya,<em> </em>Veliko Tarnovo, Bulgaria (solo)<em><br>I
-          Simply Am Not There, </em>Danske Grafikers Hus, Copenhagen (solo)</p>
+        content: <p><em>WHAT DO YOU WANT,</em> Bladr, Copenhagen, (solo)<br><em>Handle,
+          handles, </em>Heerz Tooya,<em> </em>Veliko Tarnovo, Bulgaria
+          (solo)<em><br>I Simply Am Not There, </em>Danske Grafikers Hus,
+          Copenhagen (solo)</p>
       - year: "2023"
         content: <em>A study of plants and music,</em> w. Ebbe Stub Wittrup, Radiohuset,
           Copenhagen (public commission)
