@@ -1,8 +1,7 @@
 ---
 slug: handle-handles
 title: HANDLE, HANDLES
-year: 2024
-date: 2024-06-20
+date: 2024-06-21
 additional:
   - string: Handle, Handles, Heerz Tooya, Veliko Tarnavo,Bulgaria, 2024.
 carouselImages:
