@@ -6,7 +6,7 @@ additional:
   - string: Handle, Handles, Heerz Tooya, Veliko Tarnavo,Bulgaria, 2024.
 carouselImages:
   - url: /assets/Handle_handles_Installations_view_1_1000px-1.jpg
-    caption: Installationsview, _Handle, Handles, Heerz Tooya_, 2024.
+    caption: Installationsview, _Handle, Handles,_ Heerz Tooya, 2024.
   - url: /assets/Handles_1_1000px.jpg
     caption: "_Handle #1,_ Polaroid sx-70, 40x40 cm, (framed) 8,1x8,4 cm (unframed),
       2024."
