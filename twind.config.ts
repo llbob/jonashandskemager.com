@@ -6,10 +6,10 @@ export default {
     theme: {
       extend: {
         fontFamily: {
-          serif: ['"Times New Roman"', 'serif'],
+          serif: ['var(--font-family)'],
         },
         colors: {
-          backgroundColor: '#EEE',
+          backgroundColor: 'var(--background-color)',
           activeColor: '#000',
           white: '#EEE',
         },
@@ -17,12 +17,9 @@ export default {
     },
     preflight: {
       body: {
-        fontFamily: '"Times New Roman", serif',
-        backgroundColor: '#F8F8F8',
+        fontFamily: 'var(--font-family)',
+        backgroundColor: 'var(--background-color)',
       },
-      // 'a': {
-      //   textDecoration: 'none',
-      // },
     },
     plugins: {
       'link': 'text-activeColor hover:underline',

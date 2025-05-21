@@ -7,26 +7,30 @@ import { getCV } from "../utils/cv.ts";
 import type { CV } from "../types/cv.ts";
 import { getAbout } from "../utils/about.ts";
 import type { About } from "../types/about.ts";
+import { getSiteSettings, SiteSettings } from "../utils/siteSettings.ts";
 
 // Combined data type for our page
 interface HomePageData {
   works: Work[];
   about: About;
   cv: CV;
+  settings: SiteSettings;
 }
 
 export const handler: Handlers<HomePageData> = {
   async GET(_req, ctx) {
-    const [works, about, cv] = await Promise.all([
+    const [works, about, cv, settings] = await Promise.all([
       getWorks(),
       getAbout(),
       getCV(),
+      getSiteSettings(),
     ]);
 
     return ctx.render({
       works: works || [],
       about: about || { content: "" },
-      cv: cv || { sections: [], content: "" }
+      cv: cv || { sections: [], content: "" },
+      settings,
     });
   },
 };
