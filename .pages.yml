@@ -126,3 +126,35 @@ content:
                 type: rich-text
                 options:
                   format: html
+
+  - name: siteSettings
+    label: Site Settings
+    type: file
+    path: _data/siteSettings.json
+    format: json
+    fields:
+      - name: font
+        label: Site Font
+        type: select
+        required: true
+        default: "Times New Roman"
+        options:
+          values:
+            - "Times New Roman"
+            - "Arial"
+            - "Georgia"
+            - "Helvetica"
+            - "Verdana"
+            - "Garamond"
+            - "Courier New"
+            - "Tahoma"
+            - "Trebuchet MS"
+            - "Palatino"
+      - name: backgroundColor
+        label: Background Color
+        type: string
+        description: "Enter a valid CSS color (hex code like #EEEEEE, rgb value, or color name)"
+        default: "#EEEEEE"
+        pattern: 
+          message: "Please enter a valid CSS color (e.g., #EEEEEE, rgb(238, 238, 238), or white)"
+          regex: "^(#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})|rgb\\(\\s*(\\d{1,3})\\s*,\\s*(\\d{1,3})\\s*,\\s*(\\d{1,3})\\s*\\)|[a-zA-Z]+)$"
