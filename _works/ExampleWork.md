@@ -76,7 +76,7 @@ references:
         blocks, casting an ethereal glow across the house. At night, the house
         becomes a luminous beacon, with light radiating from its glass façade
         (…) a clever interplay between the visible and the hidden, the public
-        and the private.” ([Archeyes.com](http://Archeyes.com))
+        and the private.” [(Archeyes.com)](\(Archeyes.com\))
   - referenceNumber: 5
     reference:
       - “You’re part of a choreography that the architecture is a background
