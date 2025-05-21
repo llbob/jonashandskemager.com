@@ -9,7 +9,8 @@ carouselImages:
   - url: undefined
     caption: _The Study of plants and music,_ documentation film, 2023.
     videoUrl: <div style="padding:54.05% 0 0 0;position:relative;"><iframe
-      src="https://player.vimeo.com/video/860482757?h=9a494c5ca1&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+      src="https://player.vimeo.com/video/860482757? allow=“autoplay=1;
+      muted=1;h=9a494c5ca1&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
       frameborder="0" allow="autoplay=1 muted=1; fullscreen; picture-in-picture;
       clipboard-write; encrypted-media"
       style="position:absolute;top:0;left:0;width:100%;height:100%;"
