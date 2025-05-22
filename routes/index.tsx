@@ -134,10 +134,10 @@ export default function HomePage({ data }: PageProps<HomePageData>) {
           {/* Grid container for CV sections */}
           <div className="space-y-8">
             {cv && cv.sections && cv.sections.map((section, index) => (
-              <div key={index} className="mb-10">
+              <div key={index} className="">
                 <p className="text-base font-serif mb-2">{section.title}</p>
                 {section.items && section.items.length > 0 ? (
-                  <div className="space-y-4">
+                  <div className="">
                     {section.items.map((item, itemIndex) => (
                       <div key={itemIndex} className="grid grid-cols-1 md:grid-cols-6 gap-1">
                         <div className="text-base font-serif md:col-span-1 md:pl-6">{item.year}</div>
