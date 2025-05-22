@@ -20,6 +20,7 @@ carouselImages:
   - url: /assets/Layers_Stills_8_1000px.jpg
     caption: _Layers_, stills, video, sound, 3:27 min, 2025.
   - url: /assets/Cantina_Layers_3-1_1000px.jpg
+    caption: _Layers_, (excerpt), video, sound, 3:27 min, 2025.
     videoUrl: ' <div style="padding:56.25% 0 0 0;position:relative;"><iframe
       src="https://player.vimeo.com/video/1082567765?autoplay=1&loop=1&autopause=0&muted=0&controls=0"
       frameborder="0" allow="autoplay; fullscreen; picture-in-picture;
