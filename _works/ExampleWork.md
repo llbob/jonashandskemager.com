@@ -19,10 +19,18 @@ carouselImages:
     caption: _Layers_, stills, video, sound, 3:27 min, 2025.
   - url: /assets/Layers_Stills_8_1000px.jpg
     caption: _Layers_, stills, video, sound, 3:27 min, 2025.
-  - url: undefined
+  - url: /assets/works/Cantina_layers/Cantina_Layers_3-1_1000px.jpg
     caption: _Layers_(excerpt), video, sound, 3:27min, 2025.
     videoUrl: ' <div style="padding:56.25% 0 0 0;position:relative;"><iframe
       src="https://player.vimeo.com/video/1082567765?autoplay=1&loop=1&autopause=0&muted=0?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+      frameborder="0" allow="autoplay; fullscreen; picture-in-picture;
+      clipboard-write; encrypted-media"
+      style="position:absolute;top:0;left:0;width:100%;height:100%;"
+      title="Layers (excerpt)"></iframe></div><script
+      src="https://player.vimeo.com/api/player.js"></script>'
+  - url: /assets/Cantina_Layers_3-1_1000px.jpg
+    videoUrl: ' <div style="padding:56.25% 0 0 0;position:relative;"><iframe
+      src="https://player.vimeo.com/video/1082567765?autoplay=1&loop=1&autopause=0&muted=0&controls=0?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
       frameborder="0" allow="autoplay; fullscreen; picture-in-picture;
       clipboard-write; encrypted-media"
       style="position:absolute;top:0;left:0;width:100%;height:100%;"
