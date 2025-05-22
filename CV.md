@@ -19,8 +19,8 @@ sections:
           (solo)<em><br>I Simply Am Not There, </em>Danske Grafikers Hus,
           Copenhagen (solo)</p>
       - year: "2023"
-        content: <em>A study of plants and music,</em> w. Ebbe Stub Wittrup, Radiohuset,
-          Copenhagen (public commission)
+        content: <p><em>A study of plants and music</em> w. Ebbe Stub Wittrup,
+          Radiohuset, Copenhagen (public commission)</p>
       - year: "2021"
         content: <em>GÅ</em>, Kunsthal Sophienholm, Kgs. Lyngby
       - year: "2020"
@@ -30,8 +30,8 @@ sections:
           Lolland<br><em>Saint Antonios Fristelser</em>, Galleri Tom
           Christoffersen, Copenhagen
       - year: "2018"
-        content: <p><em>Courage Afternoon</em>, Sydhavn Station, Copenhagen (w. Mads
-          Juel)<br><em>Overgang</em> – Hyper, Museum Ovartaci,
+        content: <p><em>Courage Afternoon </em>w. Mads Juel, Sydhavn Station,
+          Copenhagen<br><em>Overgang</em> – Hyper, Museum Ovartaci,
           Risskov<br><em>RISO</em>, Udstillingssted Bladr,
           Copenhagen<br><em>Buds are Breaking</em>, Bådehavnsgade 42,
           Copenhagen</p>
