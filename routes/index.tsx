@@ -122,7 +122,7 @@ export default function HomePage({ data }: PageProps<HomePageData>) {
         </div>
 
         {/* CV Section */}
-        <div id="cv" className="mb-12 pb-8 w-full lg:w-3/4 h-screen">
+        <div id="cv" className="w-full lg:w-3/4 h-screen">
           <p className="text-xl font-serif mb-6 pt-4">CV</p>
 
           {/* Additional CV content in full width */}
