@@ -148,6 +148,7 @@ content:
             - "Garamond"
             - "Courier New"
             - "Tahoma"
+            - "comic sans"
             - "Trebuchet MS"
             - "Palatino"
       - name: backgroundColor
