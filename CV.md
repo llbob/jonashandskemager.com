@@ -19,8 +19,8 @@ sections:
           (solo)<em><br>I Simply Am Not There, </em>Danske Grafikers Hus,
           Copenhagen (solo)</p>
       - year: "2023"
-        content: <p><em>A study of plants and music</em> w. Ebbe Stub Wittrup,
-          Radiohuset, Copenhagen (public commission)</p>
+        content: <p><em>A study of plants and music</em> w. Ebbe Stub Wittrup, The
+          Radiohouse, Copenhagen (public commission)</p>
       - year: "2021"
         content: <em>GÅ</em>, Kunsthal Sophienholm, Kgs. Lyngby
       - year: "2020"
