@@ -17,16 +17,6 @@ sections:
           handles, </em>Heerz Tooya,<em> </em>Veliko Tarnovo, Bulgaria
           (solo)<em><br>I Simply Am Not There, </em>Danske Grafikers Hus,
           Copenhagen (solo)</p>
-      - year: "2023"
-        content: <p></p>
-      - year: "2021"
-        content: <p></p>
-      - year: "2020"
-        content: <p></p>
-      - year: "2019"
-        content: <p></p>
-      - year: "2018"
-        content: <p></p>
   - title: Group exhibitions (selected)
     items:
       - year: "2025"
