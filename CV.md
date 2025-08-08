@@ -11,12 +11,11 @@ sections:
   - title: Selected solo shows
     items:
       - year: "2025"
-        content: <p><em>Layers, </em>Cantina, Århus, (solo)</p>
+        content: <p><em>Layers, </em>Cantina, Århus</p>
       - year: "2024"
-        content: <p><em>WHAT DO YOU WANT,</em> Bladr, Copenhagen, (solo)<br><em>Handle,
-          handles, </em>Heerz Tooya,<em> </em>Veliko Tarnovo, Bulgaria
-          (solo)<em><br>I Simply Am Not There, </em>Danske Grafikers Hus,
-          Copenhagen (solo)</p>
+        content: <p><em>WHAT DO YOU WANT,</em> Bladr, Copenhagen<br><em>Handle, handles,
+          </em>Heerz Tooya,<em> </em>Veliko Tarnovo, Bulgaria<em><br>I Simply Am
+          Not There, </em>Danske Grafikers Hus, Copenhagen</p>
   - title: Selected group shows
     items:
       - year: "2025"
