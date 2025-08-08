@@ -8,7 +8,7 @@ sections:
         content: MauMaus, Independent Study Program, Lisbon
       - year: 2011-12
         content: Fatamorgana, The Danish school of Art Photography, Copenhagen
-  - title: Solo exhibitions (selected)
+  - title: Selected solo shows
     items:
       - year: "2025"
         content: <p><em>Layers, </em>Cantina, Århus, (solo)</p>
