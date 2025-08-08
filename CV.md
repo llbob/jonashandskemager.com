@@ -8,33 +8,45 @@ sections:
         content: MauMaus, Independent Study Program, Lisbon
       - year: 2011-12
         content: Fatamorgana, The Danish school of Art Photography, Copenhagen
-  - title: Selected exhibitions
+  - title: Solo exhibitions (selected)
     items:
       - year: "2025"
-        content: <em>S2E2, </em>Portland.site, Zürich, Switzerland<br><em>Layers,
-          </em>Cantina, Århus, (solo)
+        content: <p><em>Layers, </em>Cantina, Århus, (solo)</p>
       - year: "2024"
         content: <p><em>WHAT DO YOU WANT,</em> Bladr, Copenhagen, (solo)<br><em>Handle,
           handles, </em>Heerz Tooya,<em> </em>Veliko Tarnovo, Bulgaria
           (solo)<em><br>I Simply Am Not There, </em>Danske Grafikers Hus,
           Copenhagen (solo)</p>
       - year: "2023"
+        content: <p></p>
+      - year: "2021"
+        content: <p></p>
+      - year: "2020"
+        content: <p></p>
+      - year: "2019"
+        content: <p></p>
+      - year: "2018"
+        content: <p></p>
+  - title: Group exhibitions (selected)
+    items:
+      - year: "2025"
+        content: <p><em>S2E2, </em>Portland.site, Zürich, Switzerland</p>
+      - year: "2023"
         content: <p><em>A study of plants and music</em> w. Ebbe Stub Wittrup, The
           Radiohouse, Copenhagen (public commission)</p>
       - year: "2021"
-        content: <em>GÅ</em>, Kunsthal Sophienholm, Kgs. Lyngby
+        content: <p><em>GÅ</em>, Kunsthal Sophienholm, Kgs. Lyngby</p>
       - year: "2020"
-        content: <em>Afgang2020</em>, Kunsthal Charlottenborg, Copenhagen
+        content: <p><em>Afgang2020</em>, Kunsthal Charlottenborg, Copenhagen</p>
       - year: "2019"
-        content: <em>det 2. Bud RW + 19</em>, Richard Winthers Hus, Vindeby,
+        content: <p><em>det 2. Bud RW + 19</em>, Richard Winthers Hus, Vindeby,
           Lolland<br><em>Saint Antonios Fristelser</em>, Galleri Tom
-          Christoffersen, Copenhagen
+          Christoffersen, Copenhagen</p>
       - year: "2018"
         content: <p><em>Courage Afternoon </em>w. Mads Juel, Sydhavn Station,
           Copenhagen<br><em>Overgang</em> – Hyper, Museum Ovartaci,
           Risskov<br><em>RISO</em>, Udstillingssted Bladr,
           Copenhagen<br><em>Buds are Breaking</em>, Bådehavnsgade 42,
           Copenhagen</p>
-  - title: Group exhibitions (selected)
 ---
 <p>Jonas Handskemager (b. 1987) is a visual artist based in Copenhagen.</p>
