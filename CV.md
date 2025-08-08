@@ -17,7 +17,7 @@ sections:
           handles, </em>Heerz Tooya,<em> </em>Veliko Tarnovo, Bulgaria
           (solo)<em><br>I Simply Am Not There, </em>Danske Grafikers Hus,
           Copenhagen (solo)</p>
-  - title: Group exhibitions (selected)
+  - title: Selected group shows
     items:
       - year: "2025"
         content: <p><em>S2E2, </em>Portland.site, Zürich, Switzerland</p>
