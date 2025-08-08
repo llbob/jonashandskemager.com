@@ -35,5 +35,6 @@ sections:
           Risskov<br><em>RISO</em>, Udstillingssted Bladr,
           Copenhagen<br><em>Buds are Breaking</em>, Bådehavnsgade 42,
           Copenhagen</p>
+  - title: Group exhibitions (selected)
 ---
 <p>Jonas Handskemager (b. 1987) is a visual artist based in Copenhagen.</p>
