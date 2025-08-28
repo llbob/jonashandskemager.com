@@ -1,6 +1,6 @@
 ---
 sections:
-  - title: Educations
+  - title: EDUCATIONS
     items:
       - year: 2013-2020
         content: The Royal Danish Academy of Fine Arts, Copenhagen
@@ -8,7 +8,7 @@ sections:
         content: MauMaus, Independent Study Program, Lisbon
       - year: 2011-12
         content: Fatamorgana, The Danish school of Art Photography, Copenhagen
-  - title: Selected solo shows
+  - title: SELECTED SOLO SHOWS
     items:
       - year: "2025"
         content: <p><em>Layers, </em>Cantina, Århus</p>
@@ -16,7 +16,7 @@ sections:
         content: <p><em>WHAT DO YOU WANT,</em> Bladr, Copenhagen<br><em>Handle, handles,
           </em>Heerz Tooya,<em> </em>Veliko Tarnovo, Bulgaria<em><br>I Simply Am
           Not There, </em>Danske Grafikers Hus, Copenhagen</p>
-  - title: Selected group shows
+  - title: SELECTED GROUP SHOWS
     items:
       - year: "2025"
         content: <p><em>S2E2, </em>Portland.site, Zürich, Switzerland</p>
