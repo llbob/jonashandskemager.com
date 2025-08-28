@@ -8,7 +8,7 @@ sections:
         content: MauMaus, Independent Study Program, Lisbon
       - year: 2011-12
         content: Fatamorgana, The Danish school of Art Photography, Copenhagen
-  - title: SELECTED SOLO SHOWS
+  - title: SOLO SHOWS
     items:
       - year: "2025"
         content: <p><em>Layers, </em>Cantina, Århus</p>
@@ -16,7 +16,7 @@ sections:
         content: <p><em>WHAT DO YOU WANT,</em> Bladr, Copenhagen<br><em>Handle, handles,
           </em>Heerz Tooya,<em> </em>Veliko Tarnovo, Bulgaria<em><br>I Simply Am
           Not There, </em>Danske Grafikers Hus, Copenhagen</p>
-  - title: SELECTED GROUP SHOWS
+  - title: GROUP SHOWS
     items:
       - year: "2025"
         content: <p><em>S2E2, </em>Portland.site, Zürich, Switzerland</p>
