@@ -7,7 +7,7 @@ sections:
       - year: "2017"
         content: MauMaus, Independent Study Program, Lisbon
       - year: 2011-12
-        content: Fatamorgana, The Danish school of Art Photography, Copenhagen
+        content: <p>Fatamorgana, The Danish School of Art Photography, Copenhagen</p>
   - title: SOLO SHOWS
     items:
       - year: "2025"
