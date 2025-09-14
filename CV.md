@@ -19,7 +19,7 @@ sections:
   - title: GROUP SHOWS
     items:
       - year: "2025"
-        content: <p><em>S2E2, </em>Portland.site, Zürich, Switzerland</p>
+        content: <p><em>S2E2, </em>Portland.site, Zürich</p>
       - year: "2023"
         content: <p><em>A study of plants and music</em> w. Ebbe Stub Wittrup, The
           Radiohouse, Copenhagen (public commission)</p>
