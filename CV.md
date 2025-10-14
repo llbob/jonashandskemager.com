@@ -23,6 +23,8 @@ sections:
       - year: "2023"
         content: <p><em>A study of plants and music</em> w. Ebbe Stub Wittrup, The
           Radiohouse, Copenhagen (public commission)</p>
+      - year: "2022"
+        content: <p><em>Bedrock 2, </em>Ladder Space, Copenhagen</p>
       - year: "2021"
         content: <p><em>GÅ</em>, Kunsthal Sophienholm, Kgs. Lyngby</p>
       - year: "2020"
