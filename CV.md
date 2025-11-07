@@ -36,8 +36,7 @@ sections:
       - year: "2018"
         content: <p><em>Courage Afternoon </em>w. Mads Juel, Sydhavn Station,
           Copenhagen<br><em>Overgang</em> – Hyper, Museum Ovartaci,
-          Risskov<br><em>RISO</em>, Udstillingssted Bladr,
-          Copenhagen<br><em>Buds Are Breaking</em>, Bådehavnsgade 42,
-          Copenhagen</p>
+          Risskov<br><em>RISO</em>, Bladr, Copenhagen<br><em>Buds Are
+          Breaking</em>, Bådehavnsgade 42, Copenhagen</p>
 ---
 <p>Jonas Handskemager (b. 1987) is a visual artist based in Copenhagen.</p>
