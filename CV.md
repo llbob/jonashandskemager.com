@@ -21,8 +21,8 @@ sections:
       - year: "2025"
         content: <p><em>S2E2, </em>Portland, Zürich</p>
       - year: "2023"
-        content: <p><em>A Study Of Plants And Music</em> w. Ebbe Stub Wittrup, The
-          Radiohouse, Copenhagen (public commission)</p>
+        content: <p><em>A Study Of Plants And Music</em>, The Radiohouse, Copenhagen
+          (public commission)</p>
       - year: "2022"
         content: <p><em>Bedrock 2, </em>Ladder Space, Copenhagen</p>
       - year: "2021"
@@ -34,7 +34,7 @@ sections:
           Lolland<br><em>Saint Antonios Fristelser</em>, Galleri Tom
           Christoffersen, Copenhagen</p>
       - year: "2018"
-        content: <p><em>Courage Afternoon </em>w. Mads Juel, Sydhavn Station,
+        content: <p><em>Courage Afternoon,</em> Sydhavn Station,
           Copenhagen<br><em>Overgang</em> – Hyper, Museum Ovartaci,
           Risskov<br><em>RISO</em>, Bladr, Copenhagen<br><em>Buds Are
           Breaking</em>, Bådehavnsgade 42, Copenhagen</p>
