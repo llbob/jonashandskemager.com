@@ -8,7 +8,7 @@ sections:
         content: MauMaus, Independent Study Program, Lisbon
       - year: 2011-12
         content: <p>Fatamorgana, The Danish School of Art Photography, Copenhagen</p>
-  - title: SOLO SHOWS
+  - title: SOLO SHOWS (SELECTED)
     items:
       - year: "2025"
         content: <p><em>Layers, </em>Cantina, Århus</p>
@@ -16,7 +16,7 @@ sections:
         content: <p><em>WHAT DO YOU WANT,</em> Bladr, Copenhagen<br><em>Handle, handles,
           </em>Heerz Tooya,<em> </em>Veliko Tarnovo, Bulgaria<em><br>I Simply Am
           Not There, </em>Danske Grafikers Hus, Copenhagen</p>
-  - title: GROUP SHOWS
+  - title: GROUP SHOWS (SELECTED)
     items:
       - year: "2025"
         content: <p><em>S2E2, </em>Portland, Zürich</p>
@@ -36,7 +36,7 @@ sections:
       - year: "2018"
         content: <p><em>Courage Afternoon,</em> Sydhavn Station,
           Copenhagen<br><em>Overgang</em> – Hyper, Museum Ovartaci,
-          Risskov<br><em>RISO</em>, Bladr, Copenhagen<br><em>Buds Are
-          Breaking</em>, Bådehavnsgade 42, Copenhagen</p>
+          Risskov<br><em>Buds Are Breaking</em>, Bådehavnsgade 42,
+          Copenhagen</p>
 ---
 <p>Jonas Handskemager (b. 1987) is a visual artist based in Copenhagen.</p>
