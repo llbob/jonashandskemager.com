@@ -10,6 +10,8 @@ sections:
         content: <p>Fatamorgana, The Danish School of Art Photography, Copenhagen</p>
   - title: SOLO SHOWS (SELECTED)
     items:
+      - year: "2026"
+        content: <p>Souvenirs <em>and </em>Sublimation<em>, </em>Forma, Copenhagen</p>
       - year: "2025"
         content: <p><em>Layers, </em>Cantina, Århus</p>
       - year: "2024"
