@@ -6,11 +6,11 @@ additional:
   - string: Forma, Copenhagen, 2026.
 carouselImages:
   - url: /assets/1_Souvenirs and sublimation_POSTER_1000px.jpg
-    caption: Exhibition poster, Souvenirs and sublimation, Forma, 2026.
+    caption: Exhibition poster, _Souvenirs and sublimation_, Forma, 2026.
   - url: /assets/7_Souvenirs and sublimation_installationview_2_1000px.jpg
-    caption: Installationsview, Souvenirs and sublimation, Forma, 2026.
+    caption: Installationsview, _Souvenirs and sublimation,_ Forma, 2026.
   - url: /assets/4_Souvenirs and sublimation_Nationalbanken_0_1000px.jpg
-    caption: Installationsview, Souvenirs and sublimation, Forma, 2026.
+    caption: Installationsview, _Souvenirs and sublimation,_ Forma, 2026.
   - url: /assets/3_Souvenirs and sublimation_Nationalbanken_2_1000px.jpg
     caption: _Nationalbanken (Banksalen),_ 60x70 cm, archival pigment print on
       Baryta hahemuhle paper, artist’s frame, 2026.
