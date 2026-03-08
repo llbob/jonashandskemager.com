@@ -22,6 +22,8 @@ carouselImages:
       194x59 cm, 2025.
   - url: /assets/The_hunt_stills-3_1000px.jpg
     caption: _The Hunt_, still, 2026.
+  - url: /assets/The_hunt_stills-5_1000px.jpg
+    caption: _The Hunt_, still, 2026.
   - url: /assets/The_hunt_stills-8_1000px.jpg
     caption: _The Hunt_, still, 2026.
   - url: /assets/The_hunt_stills-4_1000px-1.jpg
