@@ -21,9 +21,9 @@ carouselImages:
     caption: _Currency (helvetica), Courtesy (arial),_ handpainted wardrobe front,
       194x59 cm, 2025.
   - url: /assets/The_hunt_stills-3_1000px.jpg
-    caption: _The Hunt_, still, video, sound, 3:40 min, 2026.
+    caption: _The Hunt_, still, 2026.
   - url: /assets/The_hunt_stills-8_1000px.jpg
-    caption: _The Hunt_, still, video, sound, 3:40 min, 2026.
+    caption: _The Hunt_, still, 2026.
   - url: /assets/The_hunt_stills-4_1000px-1.jpg
     caption: _The Hunt_ (excerpt), video, sound, 3:40 min, 2026.
     videoUrl: <div style="padding:56.25% 0 0 0;position:relative;"><iframe
