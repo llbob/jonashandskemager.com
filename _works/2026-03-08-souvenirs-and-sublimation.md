@@ -1,6 +1,6 @@
 ---
 slug: Souvenirs and sublimation
-title: Souvenirs and sublimation
+title: SOUVENIRS AND SUBLIMATION
 date: 2026-02-21
 additional:
   - string: Forma, Copenhagen, 2026.
