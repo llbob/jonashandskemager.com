@@ -13,10 +13,10 @@ carouselImages:
     caption: Installationsview, _Souvenirs and sublimation,_ Forma, 2026.
   - url: /assets/3_Souvenirs and sublimation_Nationalbanken_2_1000px.jpg
     caption: _Nationalbanken (Banksalen),_ 60x70 cm, archival pigment print on
-      Baryta hahemuhle paper, artist’s frame, 2026.
+      Baryta, artist’s frame, 2026.
   - url: /assets/2_Souvenirs and sublimation_Nationalbanken_1_1000px.jpg
     caption: _Nationalbanken (Bank & Marked),_ 60x70 cm, archival pigment print on
-      Baryta hahemuhle paper, artist’s frame, 2026.
+      Baryta, artist’s frame, 2026.
   - url: /assets/5_Souvenirs and sublimation_currency_courtesy_1000px-1.jpg
     caption: _Currency (helvetica), Courtesy (arial),_ handpainted wardrobe front,
       194x59 cm, 2025.
