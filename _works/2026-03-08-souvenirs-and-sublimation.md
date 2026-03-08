@@ -17,9 +17,6 @@ carouselImages:
   - url: /assets/2_Souvenirs and sublimation_Nationalbanken_1_1000px.jpg
     caption: _Nationalbanken (Bank & Marked),_ 60x70 cm, archival pigment print on
       Baryta hahemuhle paper, artist’s frame, 2026.
-  - url: /assets/5_Souvenirs and sublimation_currency_courtesy_1000px.jpg
-    caption: _Currency (helvetica), Courtesy (arial),_ handpainted wardrobe front,
-      194x59 cm, 2025.
   - url: /assets/The_hunt_stills-4_1000px.jpg
     caption: _The Hunt_ (excerpt), 2026.
     videoUrl: <div style="padding:56.25% 0 0 0;position:relative;"><iframe
