@@ -19,8 +19,7 @@ carouselImages:
     caption: "_Jouissance_, Polished aluminium, approx: L: 27 cm,H: 18,5 cm, D: 4
       cm, 2024."
   - url: /assets/Still_pictures_1-3_1000px.jpg
-    caption: _Still pictures 1-3_, 40x172 cm, archival pigment print on baryta
-      hahnemuhle paper, 2024.
+    caption: _Still pictures 1-3_, 40x172 cm, archival pigment print on baryta, 2024.
   - url: /assets/Still_pictures_4-6_1000px.jpg
     caption: _Still pictures 1-3_, 40x172 cm, archival pigment print on baryta
       hahnemuhle paper, 2024.
