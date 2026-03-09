@@ -7,7 +7,7 @@ additional:
 carouselImages:
   - url: /assets/1_Souvenirs and sublimation_POSTER_1000px.jpg
     caption: Exhibition poster, _Souvenirs and sublimation_, Forma, 2026.
-  - url: /assets/7_Souvenirs and sublimation_installationview_2_1000px.jpg
+  - url: /assets/8_Souvenirs and sublimation_installationview_3_1000px.jpg
     caption: Installationsview, _Souvenirs and sublimation,_ Forma, 2026.
   - url: /assets/4_Souvenirs and sublimation_Nationalbanken_0_1000px.jpg
     caption: Installationsview, _Souvenirs and sublimation,_ Forma, 2026.
