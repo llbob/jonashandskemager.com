@@ -3,7 +3,7 @@ slug: Souvenirs and sublimation
 title: SOUVENIRS AND SUBLIMATION
 date: 2026-02-21
 additional:
-  - string: Forma, Copenhagen, 2026.
+  - string: Forma, Copenhagen, Denmark, 2026.
 carouselImages:
   - url: /assets/1_Souvenirs and sublimation_POSTER_1000px.jpg
     caption: Exhibition poster, _Souvenirs and sublimation_, Forma, 2026.
