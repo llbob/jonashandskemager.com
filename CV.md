@@ -3,9 +3,9 @@ sections:
   - title: EDUCATIONS
     items:
       - year: 2013-2020
-        content: The Royal Danish Academy of Fine Arts, Copenhagen
+        content: <p>The Royal Danish Academy of Fine Arts, Copenhagen</p>
       - year: "2017"
-        content: MauMaus, Independent Study Program, Lisbon
+        content: <p>MauMaus, Independent Study Program, Lisbon</p>
       - year: 2011-12
         content: <p>Fatamorgana, The Danish School of Art Photography, Copenhagen</p>
   - title: SOLO SHOWS (SELECTED)
@@ -20,6 +20,9 @@ sections:
           Not There, </em>Danske Grafikers Hus, Copenhagen</p>
   - title: GROUP SHOWS (SELECTED)
     items:
+      - year: "2026"
+        content: <p><em>Københavnerstykker II, </em>Nikoloaj Kunsthal, Copenhagen,
+          DK</p>
       - year: "2025"
         content: <p><em>S2E2, </em>Portland, Zürich</p>
       - year: "2023"
