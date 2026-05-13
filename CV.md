@@ -5,7 +5,7 @@ sections:
       - year: 2013-2020
         content: <p>The Royal Danish Academy of Fine Arts, Copenhagen</p>
       - year: "2017"
-        content: <p>MauMaus, Independent Study Program, Lisbon</p>
+        content: <p>Maumaus, Independent Study Program, Lisbon</p>
       - year: 2011-12
         content: <p>Fatamorgana, The Danish School of Art Photography, Copenhagen</p>
   - title: SOLO SHOWS (SELECTED)
