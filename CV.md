@@ -1,6 +1,6 @@
 ---
 sections:
-  - title: EDUCATIONS!
+  - title: EDUCATIONS
     items:
       - year: 2013-2020
         content: <p>The Royal Danish Academy of Fine Arts, Copenhagen</p>
