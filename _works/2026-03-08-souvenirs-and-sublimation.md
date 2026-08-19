@@ -6,30 +6,30 @@ additional:
   - string: Forma, Copenhagen, Denmark, 2026.
 carouselImages:
   - url: /assets/1_Souvenirs and sublimation_POSTER_1000px.jpg
-    caption: Exhibition poster, _Souvenirs and sublimation_, Forma, 2026.
+    caption: Exhibition poster, *Souvenirs and sublimation*, Forma, 2026.
   - url: /assets/8_Souvenirs and sublimation_installationview_3_1000px.jpg
-    caption: Installationsview, _Souvenirs and sublimation,_ Forma, 2026.
+    caption: Installationsview, *Souvenirs and sublimation,* Forma, 2026.
   - url: /assets/4_Souvenirs and sublimation_Nationalbanken_0_1000px.jpg
-    caption: Installationsview, _Souvenirs and sublimation,_ Forma, 2026.
+    caption: Installationsview, *Souvenirs and sublimation,* Forma, 2026.
   - url: /assets/3_Souvenirs and sublimation_Nationalbanken_2_1000px.jpg
-    caption: _Nationalbanken (Banksalen),_ 60x70 cm, archival pigment print on
-      baryta, artist’s frame, 2026.
+    caption: "*Nationalbanken (Banksalen),* 60x70 cm, archival pigment print on
+      baryta, artist’s frame, 2026."
   - url: /assets/2_Souvenirs and sublimation_Nationalbanken_1_1000px.jpg
-    caption: _Nationalbanken (Bank & Marked),_ 60x70 cm, archival pigment print on
-      baryta, artist’s frame, 2026.
+    caption: "*Nationalbanken (Bank & Marked),* 60x70 cm, archival pigment print on
+      baryta, artist’s frame, 2026."
   - url: /assets/5_Souvenirs and sublimation_currency_courtesy_1000px-1.jpg
-    caption: _Currency (helvetica), Courtesy (arial),_ handpainted wardrobe front,
-      194x59 cm, 2025.
+    caption: "*Currency (helvetica), Courtesy (arial),* handpainted wardrobe front,
+      194x59 cm, 2025."
   - url: /assets/The_hunt_stills-3_1000px.jpg
-    caption: _The Hunt_, still, 2026.
+    caption: "*The Hunt*, still, 2026."
   - url: /assets/The_hunt_stills-5_1000px.jpg
-    caption: _The Hunt_, still, 2026.
+    caption: "*The Hunt*, still, 2026."
   - url: /assets/The_hunt_stills-8_1000px.jpg
-    caption: _The Hunt_, still, 2026.
+    caption: "*The Hunt*, still, 2026."
   - url: /assets/The_hunt_stills-4_1000px-1.jpg
-    caption: _The Hunt_ (excerpt), video, sound, 3:40 min, 2026.
+    caption: "*The Hunt* (excerpt), video, sound, 3:40 min, 2026."
     videoUrl: <div style="padding:56.25% 0 0 0;position:relative;"><iframe
-      src="https://player.vimeo.com/video/1163285732?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+      src="https://player.vimeo.com/video/1163285732?h=5d9781d09d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
       frameborder="0" allow="autoplay; fullscreen; picture-in-picture;
       clipboard-write; encrypted-media; web-share"
       referrerpolicy="strict-origin-when-cross-origin"
