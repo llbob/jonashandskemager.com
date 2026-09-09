@@ -1,5 +1,5 @@
 ---
-slug: The Fresh Brain Study
+slug: THE FRESH BRAIN STUDY
 title: The Fresh Brain Study
 date: 2026-09-09
 additional:
