@@ -13,7 +13,7 @@ carouselImages:
     caption: Installationsview, *The Fresh Brain Study,* AGA Vermland (Basement), 2026.
   - url: /assets/AGA_THE_FRESH_BRAIN_STUDY_EDIT_2_1000px.jpg
     caption: Installationsview, *The Fresh Brain Study,* AGA Vermland (Basement), 2026.
-  - url: /assets/Screenshot 2026-09-09 at 21.24.24.png
+  - url: /assets/Screenshot 2026-09-09 at 21.24.24-1.png
     caption: "*The Auction*, video, sound, 2:17 min, 4:3 format, 2026."
   - url: /assets/AGA_THE_FRESH_BRAIN_STUDY_EDIT_3_1000px.jpg
     caption: "*Lockpicks #1*,40x60cm, archival pigment print on baryta, 2026."
