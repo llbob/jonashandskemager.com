@@ -5,8 +5,6 @@ date: 2026-09-09
 additional:
   - string: AGA Vermland (Basement).
 carouselImages:
-  - url: /assets/AGA_THE_FRESH_BRAIN_STUDY_EDIT_9_1000px-1.jpg
-    caption: Installationsview, *The Fresh Brain Study,* AGA Vermland (Basement), 2026.
   - url: /assets/AGA_THE_FRESH_BRAIN_STUDY_EDIT_8_1000px.jpg
     caption: Installationsview, *The Fresh Brain Study,* AGA Vermland (Basement), 2026.
   - url: /assets/AGA_THE_FRESH_BRAIN_STUDY_EDIT_7_1000px.jpg
