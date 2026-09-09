@@ -12,7 +12,8 @@ carouselImages:
   - url: /assets/AGA_THE_FRESH_BRAIN_STUDY_EDIT_2_1000px.jpg
     caption: Installationsview, *The Fresh Brain Study,* AGA Vermland (Basement), 2026.
   - url: /assets/vlc2026-09-07-17h41m51s624.tiff
-    caption: "*The Auction*, video, sound, 2:17 min, 4:3 format, 2026."
+    caption: "*The Auction (Peder Moos Edition)*, video, sound, 2:17 min, 4:3
+      format, 2026."
     videoUrl: <div style="padding:100% 0 0 0;position:relative;"><iframe
       src="https://player.vimeo.com/video/1225394211?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
       frameborder="0" allow="autoplay; fullscreen; picture-in-picture;
