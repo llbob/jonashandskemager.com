@@ -11,6 +11,9 @@ sections:
   - title: SOLO SHOWS (SELECTED)
     items:
       - year: "2026"
+        content: <p><em>The Fresh Brain Study</em>, AGA Vermland (Basement),
+          Copenhagen</p>
+      - year: "2026"
         content: <p>Souvenirs <em>and </em>Sublimation<em>, </em>Forma, Copenhagen</p>
       - year: "2025"
         content: <p><em>Layers, </em>Cantina, Århus</p>
