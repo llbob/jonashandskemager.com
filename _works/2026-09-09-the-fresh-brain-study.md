@@ -1,6 +1,6 @@
 ---
 slug: THE FRESH BRAIN STUDY
-title: The Fresh Brain Study
+title: THE FRESH BRAIN STUDY
 date: 2026-09-09
 additional:
   - string: AGA Vermland (Basement)
