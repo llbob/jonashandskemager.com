@@ -8,6 +8,16 @@ carouselImages:
   - url: /assets/AGA_THE_FRESH_BRAIN_STUDY_EDIT_9_1000px-3.jpg
     caption: "*The Auction (Peder Moos
       edition),* animation, sound, 2:17 min, 4:3 format, 2026."
+  - url: /assets/Screenshot 2026-09-09 at 21.24.24-1.png
+    caption: "*The Auction,* animation, sound, 2:17 min, 4:3 format, 2026."
+    videoUrl: <div style="padding:100% 0 0 0;position:relative;"><iframe
+      src="https://player.vimeo.com/video/1225394211?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+      frameborder="0" allow="autoplay; fullscreen; picture-in-picture;
+      clipboard-write; encrypted-media; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      style="position:absolute;top:0;left:0;width:100%;height:100%;" title="The
+      Auction (excerpt)"></iframe></div><script
+      src="https://player.vimeo.com/api/player.js"></script>
   - url: /assets/AGA_THE_FRESH_BRAIN_STUDY_EDIT_8_1000px.jpg
     caption: Installationsview, *The Fresh Brain Study,* AGA Vermland (Basement), 2026.
   - url: /assets/AGA_THE_FRESH_BRAIN_STUDY_EDIT_7_1000px.jpg
