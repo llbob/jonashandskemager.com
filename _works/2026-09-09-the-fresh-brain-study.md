@@ -6,7 +6,8 @@ additional:
   - string: AGA Vermland (Basement).
 carouselImages:
   - url: /assets/AGA_THE_FRESH_BRAIN_STUDY_EDIT_9_1000px-3.jpg
-    caption: "*The Auction,* animation, sound, 2:17 min, 4:3 format, 2026."
+    caption: "*The Auction (Peder Moos
+      edition),* animation, sound, 2:17 min, 4:3 format, 2026."
   - url: /assets/AGA_THE_FRESH_BRAIN_STUDY_EDIT_8_1000px.jpg
     caption: Installationsview, *The Fresh Brain Study,* AGA Vermland (Basement), 2026.
   - url: /assets/AGA_THE_FRESH_BRAIN_STUDY_EDIT_7_1000px.jpg
