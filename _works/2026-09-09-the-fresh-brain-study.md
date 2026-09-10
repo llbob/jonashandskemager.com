@@ -11,7 +11,7 @@ carouselImages:
   - url: /assets/Screenshot 2026-09-09 at 21.24.24-1.png
     caption: "*The Auction,* animation, sound, 2:17 min, 4:3 format, 2026."
     videoUrl: <div style="padding:100% 0 0 0;position:relative;"><iframe
-      src="https://player.vimeo.com/video/1225394211?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+      src="https://player.vimeo.com/video/1225394211?h=bf5aa5a8f4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
       frameborder="0" allow="autoplay; fullscreen; picture-in-picture;
       clipboard-write; encrypted-media; web-share"
       referrerpolicy="strict-origin-when-cross-origin"
