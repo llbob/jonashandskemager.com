@@ -42,8 +42,6 @@ sections:
           Christoffersen, Copenhagen</p>
       - year: "2018"
         content: <p><em>Courage Afternoon,</em> Sydhavn Station,
-          Copenhagen<br><em>Overgang</em> – Hyper, Museum Ovartaci,
-          Risskov<br><em>Buds Are Breaking</em>, Bådehavnsgade 42,
-          Copenhagen</p>
+          Copenhagen<br><em>Overgang</em> – Hyper, Museum Ovartaci, Risskov</p>
 ---
 <p>Jonas Handskemager (b. 1987) is a visual artist based in Copenhagen.</p>
