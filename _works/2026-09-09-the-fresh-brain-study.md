@@ -6,10 +6,10 @@ additional:
   - string: AGA Vermland (Basement).
 carouselImages:
   - url: /assets/AGA_THE_FRESH_BRAIN_STUDY_EDIT_9_1000px-3.jpg
-    caption: "*The Auction (Peder Moos
-      edition),* animation, sound, 2:17 min, 4:3 format, 2026."
+    caption: Installationsview, *The Fresh Brain Study,* AGA Vermland (Basement), 2026.
   - url: /assets/Screenshot 2026-09-09 at 21.24.24-1.png
-    caption: "*The Auction,* animation, sound, 2:17 min, 4:3 format, 2026."
+    caption: "*The Auction (Peder Moos edition),*
+      (excerpt) animation, sound, 2:17 min, 4:3 format, 2026."
     videoUrl: <iframe
       src="https://player.vimeo.com/video/1225394211?h=bf5aa5a8f4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
       width="1080" height="1080" frameborder="0" allow="autoplay; fullscreen;
