@@ -33,7 +33,7 @@ carouselImages:
   - url: /assets/AGA_THE_FRESH_BRAIN_STUDY_EDIT_1_1000px.jpg
     caption: Installationsview, *The Fresh Brain Study,* AGA Vermland (Basement), 2026.
   - url: /assets/Screenshot 2026-09-09 at 21.24.35.png
-    caption: "*The Fresh Brain Study (Room 606)* (excerpt), 4 synchronized displays,
+    caption: "*The Fresh Brain Study (Room 606)* (excerpt), 4 synchronized screens,
       video, 3:16 min, 2026."
     videoUrl: <div style="padding:56.25% 0 0 0;position:relative;"><iframe
       src="https://player.vimeo.com/video/1144837366?h=1ba436eed3&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
