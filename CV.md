@@ -3,45 +3,45 @@ sections:
   - title: EDUCATIONS
     items:
       - year: 2013-2020
-        content: <p>The Royal Danish Academy of Fine Arts, Copenhagen</p>
+        content: <p>The Royal Danish Academy of Fine Arts, Copenhagen, DK</p>
       - year: "2017"
-        content: <p>Maumaus, Independent Study Program, Lisbon</p>
+        content: <p>Maumaus, Independent Study Program, Lisbon, Portugal</p>
       - year: 2011-12
-        content: <p>Fatamorgana, The Danish School of Art Photography, Copenhagen</p>
+        content: <p>Fatamorgana, The Danish School of Art Photography, Copenhagen,
+          DK</p>
   - title: SOLO SHOWS (SELECTED)
     items:
       - year: "2026"
-        content: <p><em>The Fresh Brain Study</em>, AGA Vermland (Basement),
-          Copenhagen<br><em>Souvenirs and Sublimation, </em>Forma,
-          Copenhagen</p>
+        content: <p><em>The Fresh Brain Study</em>, AGA Vermland (Basement), Copenhagen,
+          DK<br><em>Souvenirs and Sublimation, </em>Forma, Copenhagen, DK</p>
       - year: "2025"
-        content: <p><em>Layers, </em>Cantina, Århus</p>
+        content: <p><em>Layers, </em>Cantina, Århus, DK</p>
       - year: "2024"
-        content: <p><em>WHAT DO YOU WANT,</em> Bladr, Copenhagen<br><em>Handle, handles,
-          </em>Heerz Tooya,<em> </em>Veliko Tarnovo, Bulgaria<em><br>I Simply Am
-          Not There, </em>Danske Grafikers Hus, Copenhagen</p>
+        content: <p><em>WHAT DO YOU WANT,</em> Bladr, Copenhagen, DK<br><em>Handle,
+          handles, </em>Heerz Tooya,<em> </em>Veliko Tarnovo, BG<em><br>I Simply
+          Am Not There, </em>Danske Grafikers Hus, Copenhagen, DK</p>
   - title: GROUP SHOWS (SELECTED)
     items:
       - year: "2026"
         content: <p><em>Københavnerstykker II, </em>Nikoloaj Kunsthal, Copenhagen,
           DK</p>
       - year: "2025"
-        content: <p><em>S2E2, </em>Portland, Zürich</p>
+        content: <p><em>S2E2, </em>Portland, Zürich, CH</p>
       - year: "2023"
         content: <p><em>A Study Of Plants And Music</em>,The Radiohouse, Copenhagen
-          (public commission, w. Ebbe Stub Wittrup)</p>
+          (public commission, w. Ebbe Stub Wittrup), DK</p>
       - year: "2022"
-        content: <p><em>Bedrock 2, </em>Ladder Space, Copenhagen</p>
+        content: <p><em>Bedrock 2, </em>Ladder Space, Copenhagen, DK</p>
       - year: "2021"
-        content: <p><em>GÅ</em>, Kunsthal Sophienholm, Kgs. Lyngby</p>
+        content: <p><em>GÅ</em>, Kunsthal Sophienholm, Kgs. Lyngby, DK</p>
       - year: "2020"
-        content: <p><em>Afgang2020</em>, Kunsthal Charlottenborg, Copenhagen</p>
+        content: <p><em>Afgang2020</em>, Kunsthal Charlottenborg, Copenhagen, DK</p>
       - year: "2019"
-        content: <p><em>det 2. Bud RW + 19</em>, Richard Winthers Hus, Vindeby,
-          Lolland<br><em>Saint Antonios Fristelser</em>, Galleri Tom
-          Christoffersen, Copenhagen</p>
+        content: <p><em>det 2. Bud RW + 19</em>, Richard Winthers Hus, Vindeby, Lolland,
+          DK<br><em>Saint Antonios Fristelser</em>, Galleri Tom Christoffersen,
+          Copenhagen, DK</p>
       - year: "2018"
-        content: <p><em>Courage Afternoon,</em> Sydhavn Station,
-          Copenhagen<br><em>Overgang</em> – Hyper, Museum Ovartaci, Risskov</p>
+        content: <p><em>Courage Afternoon,</em> Sydhavn Station, Copenhagen,
+          DK<br><em>Overgang</em> – Hyper, Museum Ovartaci, Risskov, DK</p>
 ---
 <p>Jonas Handskemager (b. 1987) is a visual artist based in Copenhagen.</p>
