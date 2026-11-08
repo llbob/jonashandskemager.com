@@ -5,7 +5,7 @@ sections:
       - year: 2013-2020
         content: <p>The Royal Danish Academy of Fine Arts, Copenhagen, DK</p>
       - year: "2017"
-        content: <p>Maumaus, Independent Study Program, Lisbon, Portugal</p>
+        content: <p>Maumaus, Independent Study Program, Lisbon, PT</p>
       - year: 2011-12
         content: <p>Fatamorgana, The Danish School of Art Photography, Copenhagen,
           DK</p>
