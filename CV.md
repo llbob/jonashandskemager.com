@@ -28,7 +28,7 @@ sections:
       - year: "2025"
         content: <p><em>S2E2, </em>Portland, Zürich, CH</p>
       - year: "2023"
-        content: <p><em>A Study Of Plants And Music</em>,The Radiohouse, Copenhagen
+        content: <p><em>A Study Of Plants And Music</em>, The Radiohouse, Copenhagen
           (public commission, w. Ebbe Stub Wittrup), DK</p>
       - year: "2022"
         content: <p><em>Bedrock 2, </em>Ladder Space, Copenhagen, DK</p>
